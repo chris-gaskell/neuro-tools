@@ -1,0 +1,247 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Neuro Tools",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Chris Gaskell",
+    "section": "",
+    "text": "Chris Gaskell is a Senior Clinical Psychologist in Neuropsychology in the UK. When not working clinically he tends to been seen talking about his rescue dog (Leo) and making futile attempts at programming/web development."
+  },
+  {
+    "objectID": "landing.html",
+    "href": "landing.html",
+    "title": "Welcome to NeuroTools!",
+    "section": "",
+    "text": "This is a website devoted to collecting resources for those working in clinical neuropsychology. The website is split up into the sections of Calculators, Guides,"
+  },
+  {
+    "objectID": "landing.html#section-1",
+    "href": "landing.html#section-1",
+    "title": "Welcome to NeuroTools!",
+    "section": "Section 1",
+    "text": "Section 1"
+  },
+  {
+    "objectID": "landing.html#section_2",
+    "href": "landing.html#section_2",
+    "title": "Neuro Tools",
+    "section": "section_2",
+    "text": "section_2"
+  },
+  {
+    "objectID": "landing.html#section-2",
+    "href": "landing.html#section-2",
+    "title": "Welcome to NeuroTools!",
+    "section": "Section 2",
+    "text": "Section 2"
+  },
+  {
+    "objectID": "extra.html",
+    "href": "extra.html",
+    "title": "Extra",
+    "section": "",
+    "text": "This page brought to you by https://example.comAbout this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Neuro Tools Blog",
+    "section": "",
+    "text": "This page brought to you by https://example.com\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2024-01-27_First_Attempt/index.html",
+    "href": "posts/2024-01-27_First_Attempt/index.html",
+    "title": "How Many Standard Errors?",
+    "section": "",
+    "text": "I am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)\n\\(E = mc^{2}\\)"
+  },
+  {
+    "objectID": "posts/2024-01-27_First_Attempt/index.html#footnotes",
+    "href": "posts/2024-01-27_First_Attempt/index.html#footnotes",
+    "title": "How Many Standard Errors?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Chris Gaskell",
+    "section": "Education",
+    "text": "Education\nUniversity of Sheffield, UK | DClinPsy in Clinical Psychology | Sept 2018 - Sept 2021\nUniversity of Chester, UK | BSc in Psychology | Sept 2010 - Sept 2013"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Chris Gaskell",
+    "section": "Experience",
+    "text": "Experience\nNHS | Senior Clinical Psychologist | August 2022 - present\nIndigoNeuro | Associate Psychologist | August 2020 - present\nNorth West Neurotherapeutics | Associate Psychologist | August 2023 - present"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Neuro Tools Blog",
+    "section": "",
+    "text": "For a specific look at the statistics series then click here.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nHow Many Standard Errors?\n\n\n1 min\n\n\n\nStats\n\n\nPsychometrics\n\n\nError\n\n\n\nAn introduction to the family of standard errors in neuropsychology\n\n\n\nJan 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n1 min\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "stats-series.html",
+    "href": "stats-series.html",
+    "title": "Series: Statistics in Neuropsychology",
+    "section": "",
+    "text": "How Many Standard Errors?\n\n\n\n\n\nAn introduction to the family of standard errors in neuropsychology\n\n\n\n\n\nJan 27, 2024\n\n\n1 min\n\n\n\n\n\n\n\nblog post title\n\n\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\n\n\nOct 24, 2022\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/stats-series/stats-series_files/2024-01-27_stats_101/index.html",
+    "href": "posts/stats-series/stats-series_files/2024-01-27_stats_101/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "This page brought to you by https://example.com\nI am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)"
+  },
+  {
+    "objectID": "posts/stats-series/stats-series_files/2024-01-27_stats_101/index.html#footnotes",
+    "href": "posts/stats-series/stats-series_files/2024-01-27_stats_101/index.html#footnotes",
+    "title": "blog post title",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
+  },
+  {
+    "objectID": "landing.html#website-landing-calculators",
+    "href": "landing.html#website-landing-calculators",
+    "title": "Welcome to NeuroTools!",
+    "section": "Apps & Calculators",
+    "text": "Apps & Calculators\n\n\n\nlanding-app"
+  },
+  {
+    "objectID": "landing.html#website-landing-guides",
+    "href": "landing.html#website-landing-guides",
+    "title": "Welcome to NeuroTools!",
+    "section": "Guides",
+    "text": "Guides\n\n\n\nlanding-steps"
+  },
+  {
+    "objectID": "posts/stats-series/2024-01-27_standard_errors/index.html",
+    "href": "posts/stats-series/2024-01-27_standard_errors/index.html",
+    "title": "How Many Standard Errors?",
+    "section": "",
+    "text": "I am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)\n\\(E = mc^{2}\\)"
+  },
+  {
+    "objectID": "posts/stats-series/2024-01-27_standard_errors/index.html#footnotes",
+    "href": "posts/stats-series/2024-01-27_standard_errors/index.html#footnotes",
+    "title": "How Many Standard Errors?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
+  },
+  {
+    "objectID": "posts/stats-series/2024-01-27_stats_101/index.html",
+    "href": "posts/stats-series/2024-01-27_stats_101/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "I am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)"
+  },
+  {
+    "objectID": "posts/stats-series/2024-01-27_stats_101/index.html#footnotes",
+    "href": "posts/stats-series/2024-01-27_stats_101/index.html#footnotes",
+    "title": "blog post title",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
+  },
+  {
+    "objectID": "pages/blog.html",
+    "href": "pages/blog.html",
+    "title": "Neuro Tools Blog",
+    "section": "",
+    "text": "For a specific look at the statistics series then click here.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nHow Many Standard Errors?\n\n\n1 min\n\n\n\nStats\n\n\nPsychometrics\n\n\nError\n\n\n\nAn introduction to the family of standard errors in neuropsychology\n\n\n\nJan 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n1 min\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/stats-series.html",
+    "href": "pages/stats-series.html",
+    "title": "Series: Statistics in Neuropsychology",
+    "section": "",
+    "text": "How Many Standard Errors?\n\n\n\n\n\nAn introduction to the family of standard errors in neuropsychology\n\n\n\n\n\nJan 27, 2024\n\n\n1 min\n\n\n\n\n\n\n\nblog post title\n\n\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\n\n\nOct 24, 2022\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/posts/stats-series/2024-01-27_standard_errors/index.html",
+    "href": "pages/posts/stats-series/2024-01-27_standard_errors/index.html",
+    "title": "How Many Standard Errors?",
+    "section": "",
+    "text": "I am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)\n\\(E = mc^{2}\\)"
+  },
+  {
+    "objectID": "pages/posts/stats-series/2024-01-27_standard_errors/index.html#footnotes",
+    "href": "pages/posts/stats-series/2024-01-27_standard_errors/index.html#footnotes",
+    "title": "How Many Standard Errors?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
+  },
+  {
+    "objectID": "pages/extra.html",
+    "href": "pages/extra.html",
+    "title": "Extra",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "pages/posts/stats-series/2024-01-27_stats_101/index.html",
+    "href": "pages/posts/stats-series/2024-01-27_stats_101/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "I am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)"
+  },
+  {
+    "objectID": "pages/posts/stats-series/2024-01-27_stats_101/index.html#footnotes",
+    "href": "pages/posts/stats-series/2024-01-27_stats_101/index.html#footnotes",
+    "title": "blog post title",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
+  },
+  {
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
+    "title": "Chris Gaskell",
+    "section": "",
+    "text": "Chris Gaskell is a Senior Clinical Psychologist in Neuropsychology in the UK. When not working clinically he tends to been seen talking about his rescue dog (Leo) and making futile attempts at programming/web development."
+  },
+  {
+    "objectID": "pages/about.html#education",
+    "href": "pages/about.html#education",
+    "title": "Chris Gaskell",
+    "section": "Education",
+    "text": "Education\nUniversity of Sheffield, UK | DClinPsy in Clinical Psychology | Sept 2018 - Sept 2021\nUniversity of Chester, UK | BSc in Psychology | Sept 2010 - Sept 2013"
+  },
+  {
+    "objectID": "pages/about.html#experience",
+    "href": "pages/about.html#experience",
+    "title": "Chris Gaskell",
+    "section": "Experience",
+    "text": "Experience\nNHS | Senior Clinical Psychologist | August 2022 - present\nIndigoNeuro | Associate Psychologist | August 2020 - present\nNorth West Neurotherapeutics | Associate Psychologist | August 2023 - present"
+  },
+  {
+    "objectID": "pages/landing.html",
+    "href": "pages/landing.html",
+    "title": "Welcome to NeuroTools!",
+    "section": "",
+    "text": "This is a website devoted to collecting resources for those working in clinical neuropsychology. The website is split up into the sections of Calculators, Guides,"
+  },
+  {
+    "objectID": "pages/landing.html#website-landing-calculators",
+    "href": "pages/landing.html#website-landing-calculators",
+    "title": "Welcome to NeuroTools!",
+    "section": "Apps & Calculators",
+    "text": "Apps & Calculators\n\n\n\nlanding-app"
+  },
+  {
+    "objectID": "pages/landing.html#website-landing-guides",
+    "href": "pages/landing.html#website-landing-guides",
+    "title": "Welcome to NeuroTools!",
+    "section": "Guides",
+    "text": "Guides\n\n\n\nlanding-steps"
+  }
+]

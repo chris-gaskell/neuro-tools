@@ -1,0 +1,41 @@
+---
+title: "Chris Gaskell"
+# About Page options: https://quarto.org/docs/websites/website-about.html
+about:
+  template: solana
+  image: "https://media.licdn.com/dms/image/D4E03AQEiHvE9vSbjpA/profile-displayphoto-shrink_800_800/0/1693658306851?e=1711584000&v=beta&t=DPobxl5mGR9w-4Mzm7EUahdAD2NoJXWyVzrRL8_1QyE"
+  image-shape: round
+  image-width: "2.5in"
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/chrisgaskell92
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/chris-gaskell/
+    - icon: globe
+      text: Website
+      href: https://www.chris-gaskell.com/
+    # - icon: folder
+    #   text: Curriculum Vitae
+    #   href: Academic_CV_2023.pdf
+---
+
+Chris Gaskell is a Senior Clinical Psychologist in Neuropsychology in the UK. When not working clinically he tends to been seen talking about his rescue dog (Leo) and making futile attempts at programming/web development.
+
+## Education
+
+University of Sheffield, UK \| DClinPsy in Clinical Psychology \| Sept 2018 - Sept 2021
+
+University of Chester, UK \| BSc in Psychology \| Sept 2010 - Sept 2013
+
+## Experience
+
+NHS \| Senior Clinical Psychologist \| August 2022 - present
+
+IndigoNeuro \| Associate Psychologist \| August 2020 - present
+
+North West Neurotherapeutics \| Associate Psychologist \| August 2023 - present

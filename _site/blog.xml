@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>NeuroTools</title>
+<link>https://example.com/blog.html</link>
+<atom:link href="https://example.com/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.4.549</generator>
+<lastBuildDate>Sat, 27 Jan 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>How Many Standard Errors?</title>
+  <dc:creator>Chris Gaskell</dc:creator>
+  <link>https://example.com/posts/2024-01-27_First_Attempt/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I am going to insert an inline footnote here<sup>1</sup>.</p>
+<p><span class="citation" data-cites="aboukasm1998">(Aboukasm et al., 1998)</span></p>
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-aboukasm1998" class="csl-entry">
+Aboukasm, A., Mahr, G., Gahry, B. R., Thomas, A., &amp; Barkley, G. L. (1998). Retrospective Analysis of the Effects of Psychotherapeutic Interventions on Outcomes of Psychogenic Nonepileptic Seizures. <em>Epilepsia</em>, <em>39</em>(5), 470–473. <a href="https://doi.org/10.1111/j.1528-1157.1998.tb01407.x">https://doi.org/10.1111/j.1528-1157.1998.tb01407.x</a>
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Here is my inline footnote↩︎</p></li>
+</ol>
+</section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{gaskell2024,
+  author = {Gaskell, Chris},
+  title = {How {Many} {Standard} {Errors?}},
+  date = {2024-01-27},
+  url = {https://example.com/posts/2024-01-27_First_Attempt},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-gaskell2024" class="csl-entry quarto-appendix-citeas">
+Gaskell, C. (2024, January 27). <em>How Many Standard Errors?</em> <a href="https://example.com/posts/2024-01-27_First_Attempt">https://example.com/posts/2024-01-27_First_Attempt</a>
+</div></div></section></div> ]]></description>
+  <category>Stats</category>
+  <category>Psychometrics</category>
+  <category>Error</category>
+  <guid>https://example.com/posts/2024-01-27_First_Attempt/</guid>
+  <pubDate>Sat, 27 Jan 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://example.com/posts/2024-01-27_First_Attempt/img/error.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>blog post title</title>
+  <dc:creator>Samantha Csik</dc:creator>
+  <link>https://example.com/posts/stats-series/stats-series_files/2024-01-27_stats_101/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This page brought to you by <a href="https://example.com" class="uri">https://example.com</a></p><p>I am going to insert an inline footnote here<sup>1</sup>.</p>
+<p><span class="citation" data-cites="aboukasm1998">(Aboukasm et al., 1998)</span></p>
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-aboukasm1998" class="csl-entry">
+Aboukasm, A., Mahr, G., Gahry, B. R., Thomas, A., &amp; Barkley, G. L. (1998). Retrospective Analysis of the Effects of Psychotherapeutic Interventions on Outcomes of Psychogenic Nonepileptic Seizures. <em>Epilepsia</em>, <em>39</em>(5), 470–473. <a href="https://doi.org/10.1111/j.1528-1157.1998.tb01407.x">https://doi.org/10.1111/j.1528-1157.1998.tb01407.x</a>
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Here is my inline footnote↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Quarto</category>
+  <category>R</category>
+  <category>MEDS</category>
+  <guid>https://example.com/posts/stats-series/stats-series_files/2024-01-27_stats_101/</guid>
+  <pubDate>Sun, 23 Oct 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://example.com/posts/stats-series/stats-series_files/2024-01-27_stats_101/preview-image.png" medium="image" type="image/png"/>
+</item>
+</channel>
+</rss>

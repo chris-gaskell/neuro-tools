@@ -1,0 +1,27 @@
+---
+title: "How Many Standard Errors?"
+description: "An introduction to the family of standard errors in neuropsychology"
+author:
+  - name: Chris Gaskell
+    orcid: 0000-0002-7589-5246
+    affiliation:
+      - North Staffordshire Combined NHS Healthcare Tust
+      - The University of Sheffield
+    #affiliation-url: https://ucsb-meds.github.io/ 
+date: 01-27-2024
+categories: [Stats, Psychometrics, Error] # self-defined categories
+#  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
+image: img/error.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: references.bib
+#csl: apa7.csl
+# for help with latex equations: https://rpruim.github.io/s341/S19/from-class/MathinRmd.html#:~:text=Math%20inside%20RMarkdown,10n%3D1n2.
+---
+
+I am going to insert an inline footnote here[^1].
+
+[^1]: Here is my inline footnote
+
+[@aboukasm1998]
+
+$E = mc^{2}$

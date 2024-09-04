@@ -1,0 +1,17 @@
+---
+title: "Neuro Tools Blog"
+# Note: options available at: https://quarto.org/docs/websites/website-listings.html
+listing: 
+  contents: posts # all Quarto docs in the `posts` directory will be 
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, date, title, reading-time, description, categories]
+  feed: true
+page-layout: full
+title-block-banner: true
+---
+
+For a specific look at the statistics series then click [here](stats-series.html).
