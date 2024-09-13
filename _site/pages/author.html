@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>NeuroTools - Neuro Tools Blog</title>
+<title>NeuroTools - Chris Gaskell</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,12 +31,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../files/favicon.ico" rel="icon">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -70,77 +67,18 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-reading-time','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="NeuroTools - Neuro Tools Blog">
+<meta name="twitter:title" content="NeuroTools - Chris Gaskell">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="../pages/posts/stats-series/2024-01-27_stats_101/preview-image.png">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -163,11 +101,11 @@ window.Quarto = {
 <span class="menu-text">Apps</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../pages/blog.html" aria-current="page"> 
+    <a class="nav-link" href="../pages/blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../pages/author.html"> 
+    <a class="nav-link active" href="../pages/author.html" aria-current="page"> 
 <span class="menu-text">Author</span></a>
   </li>  
 </ul>
@@ -184,141 +122,69 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Neuro Tools Blog</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Error">Error <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MEDS">MEDS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Psychometrics">Psychometrics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Quarto">Quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Stats">Stats <span class="quarto-category-count">(1)</span></div></div></div>
-<!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
-
-
-
-
-
-<p>For a specific look at the statistics series then click <a href="stats-series.html">here</a>.</p>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+  <ul class="collapse">
+  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
+  <li><a href="#experience" id="toc-experience" class="nav-link" data-scroll-target="#experience">Experience</a></li>
+  </ul>
+</nav>
     </div>
+<!-- main -->
+<div class="quarto-about-solana column-body content">
+  <div class="about-entity">
+    <div class="entity-contents">
+      <header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Chris Gaskell</h1>
 </div>
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Stats,Psychometrics,Error" data-listing-date-sort="1706313600000" data-listing-file-modified-sort="1706385898792" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="16">
-<a href="../pages/posts/stats-series/2024-01-27_standard_errors/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../pages/posts/stats-series/2024-01-27_standard_errors/img/error.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-How Many Standard Errors?
-</h5>
-<div class="listing-reading-time card-text text-muted">
-1 min
+<div class="quarto-title-meta">
+  </div>
+</header> <div class="about-links">
+  <a href="https://twitter.com/chrisgaskell92" class="about-link" rel="" target="">
+    <i class="bi bi-twitter"></i>
+     <span class="about-link-text">twitter</span>
+  </a>
+  <a href="https://github.com/chris-gaskell" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
+  <a href="https://www.linkedin.com/in/chris-gaskell/" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">linkedin</span>
+  </a>
+  <a href="https://www.chris-gaskell.com/" class="about-link" rel="" target="">
+    <i class="bi bi-globe"></i>
+     <span class="about-link-text">Website</span>
+  </a>
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Stats'); return false;">
-Stats
+      <div class="about-contents"><main class="content" id="quarto-document-content">
+
+<p>Chris Gaskell is a Senior Clinical Psychologist in Neuropsychology in the UK. When not working clinically he tends to been seen talking about his rescue dog (Leo) and making futile attempts at programming/web development.</p>
+<section id="education" class="level2">
+<h2 data-anchor-id="education">Education</h2>
+<p>University of Sheffield, UK | DClinPsy in Clinical Psychology | Sept 2018 - Sept 2021</p>
+<p>University of Chester, UK | BSc in Psychology | Sept 2010 - Sept 2013</p>
+</section>
+<section id="experience" class="level2">
+<h2 data-anchor-id="experience">Experience</h2>
+<p>NHS | Senior Clinical Psychologist | August 2022 - present</p>
+<p>IndigoNeuro | Associate Psychologist | August 2020 - present</p>
+<p>North West Neurotherapeutics | Associate Psychologist | August 2023 - present</p>
+
+
+</section>
+</main></div>
+    </div>
+    <img src="https://avatars.githubusercontent.com/u/76660396?v=4" class="about-image
+  round " style="height: 2.5in; width: 2.5in;">
+  </div>
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Psychometrics'); return false;">
-Psychometrics
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Error'); return false;">
-Error
-</div>
-</div>
-<div class="card-text listing-description">
-An introduction to the family of standard errors in neuropsychology
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jan 27, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Quarto,R,MEDS" data-listing-date-sort="1666566000000" data-listing-file-modified-sort="1706378793175" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<a href="../pages/posts/stats-series/2024-01-27_stats_101/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../pages/posts/stats-series/2024-01-27_stats_101/preview-image.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-blog post title
-</h5>
-<div class="listing-reading-time card-text text-muted">
-1 min
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Quarto'); return false;">
-Quarto
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('MEDS'); return false;">
-MEDS
-</div>
-</div>
-<div class="card-text listing-description">
-blog post description (appears underneath the title in smaller text) which is included on the listing page
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Oct 24, 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -483,13 +349,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

@@ -50,14 +50,14 @@ website:
     left:
       - href: pages/landing.qmd
         text: Home
-      - href: pages/about.qmd
-        text: About
       - href: pages/apps.qmd
         text: Apps
       # - href: pages/blog.qmd
       #   text: Blog        
       - href: pages/blog.qmd
         text: Blog
+      - href: pages/author.qmd
+        text: Author
     # right:
     #   - href: extra.qmd
     #     text: Extras

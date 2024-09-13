@@ -1,0 +1,21 @@
+---
+title: "Reliable Change"
+description: "Calcluate Reliable Change Indices for Neuropsychological Tests"
+author:
+  - name: Chris Gaskell
+    orcid: 0000-0002-7589-5246
+    affiliation:
+      - North Staffordshire Combined NHS Healthcare Tust
+      - The University of Sheffield
+categories: [Reliable Change, Test Scores, Psychometrics]
+#image: preview-image.png
+draft: false
+bibliography: references.bib
+#csl: apa7.csl
+---
+
+I am going to insert an inline footnote here[^1].
+
+[^1]: Here is my inline footnote
+
+[@aboukasm1998]

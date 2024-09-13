@@ -1,0 +1,25 @@
+---
+title: "Divergence"
+description: "Test for Deficits, Discrepancies, and Dissociations in Neuropsychology"
+author:
+  - name: Chris Gaskell
+    orcid: 0000-0002-7589-5246
+    affiliation:
+      - North Staffordshire Combined NHS Healthcare Tust
+      - The University of Sheffield
+date: 01-27-2024
+categories: [Stats, Psychometrics, Error]
+#image: img/error.png
+draft: false
+bibliography: references.bib
+#csl: apa7.csl
+# for help with latex equations: https://rpruim.github.io/s341/S19/from-class/MathinRmd.html#:~:text=Math%20inside%20RMarkdown,10n%3D1n2.
+---
+
+I am going to insert an inline footnote here[^1].
+
+[^1]: Here is my inline footnote
+
+[@aboukasm1998]
+
+$E = mc^{2}$

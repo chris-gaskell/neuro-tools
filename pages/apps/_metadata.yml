@@ -23,5 +23,5 @@ csl: apa7.csl
 pdf:
   toc: true
   
-citation: true
+citation: false
 citations-hover: true

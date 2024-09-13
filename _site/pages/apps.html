@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>NeuroTools - Neuro Tools Blog</title>
+<title>NeuroTools - NeuroTools Apps</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-reading-time','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -131,10 +131,8 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="NeuroTools - Neuro Tools Blog">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="../pages/posts/stats-series/2024-01-27_stats_101/preview-image.png">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="NeuroTools - NeuroTools Apps">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed">
@@ -159,11 +157,11 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../pages/apps.html"> 
+    <a class="nav-link active" href="../pages/apps.html" aria-current="page"> 
 <span class="menu-text">Apps</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../pages/blog.html" aria-current="page"> 
+    <a class="nav-link" href="../pages/blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
@@ -186,13 +184,13 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Neuro Tools Blog</h1>
+    <div class="quarto-title column-page">
+      <h1 class="title">NeuroTools Apps</h1>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta column-page">
 
       
     
@@ -203,118 +201,70 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Error">Error <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MEDS">MEDS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Psychometrics">Psychometrics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Quarto">Quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Stats">Stats <span class="quarto-category-count">(1)</span></div></div></div>
-<!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
-
-
-
-
-
-<p>For a specific look at the statistics series then click <a href="stats-series.html">here</a>.</p>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
     </div>
-</div>
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Stats,Psychometrics,Error" data-listing-date-sort="1706313600000" data-listing-file-modified-sort="1706385898792" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="16">
-<a href="../pages/posts/stats-series/2024-01-27_standard_errors/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../pages/posts/stats-series/2024-01-27_standard_errors/img/error.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-How Many Standard Errors?
-</h5>
-<div class="listing-reading-time card-text text-muted">
-1 min
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Stats'); return false;">
-Stats
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Psychometrics'); return false;">
-Psychometrics
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Error'); return false;">
-Error
-</div>
-</div>
-<div class="card-text listing-description">
-An introduction to the family of standard errors in neuropsychology
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jan 27, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Quarto,R,MEDS" data-listing-date-sort="1666566000000" data-listing-file-modified-sort="1706378793175" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<a href="../pages/posts/stats-series/2024-01-27_stats_101/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../pages/posts/stats-series/2024-01-27_stats_101/preview-image.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-blog post title
-</h5>
-<div class="listing-reading-time card-text text-muted">
-1 min
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Quarto'); return false;">
-Quarto
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('MEDS'); return false;">
-MEDS
-</div>
-</div>
-<div class="card-text listing-description">
-blog post description (appears underneath the title in smaller text) which is included on the listing page
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Oct 24, 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
+<!-- main -->
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+</th>
+<th>
+Title
+</th>
+<th>
+Description
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-categories="Data Visualisation,Test Scores,Psychometrics" data-listing-file-modified-sort="1725477337786" data-listing-reading-time-sort="1" data-listing-word-count-sort="16" data-listing-title-sort="Score Converter" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-image"><div class="listing-item-img-placeholder card-img-top" style="height: 40px;">&nbsp;</div></span>
+</td>
+<td>
+<a href="../pages/apps/2_score_converter/index.html" class="title listing-title">Score Converter</a>
+</td>
+<td>
+<span class="listing-description">Convert Tabulate and Visualise Psychometric test Scores.</span>
+</td>
+</tr>
+<tr data-index="1" data-categories="Reliable Change,Test Scores,Psychometrics" data-listing-file-modified-sort="1725477472057" data-listing-reading-time-sort="1" data-listing-word-count-sort="14" data-listing-title-sort="Reliable Change" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-image"><div class="listing-item-img-placeholder card-img-top" style="height: 40px;">&nbsp;</div></span>
+</td>
+<td>
+<a href="../pages/apps/1_reliable_change/index.html" class="title listing-title">Reliable Change</a>
+</td>
+<td>
+<span class="listing-description">Calcluate Reliable Change Indices for Neuropsychological Tests</span>
+</td>
+</tr>
+<tr data-index="2" data-categories="Stats,Psychometrics,Error" data-listing-date-sort="1706313600000" data-listing-file-modified-sort="1725477564294" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="16" data-listing-title-sort="Divergence" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-image"><div class="listing-item-img-placeholder card-img-top" style="height: 40px;">&nbsp;</div></span>
+</td>
+<td>
+<a href="../pages/apps/3_divergence/index.html" class="title listing-title">Divergence</a>
+</td>
+<td>
+<span class="listing-description">Test for Deficits, Discrepancies, and Dissociations in Neuropsychology</span>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

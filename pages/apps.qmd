@@ -1,0 +1,16 @@
+---
+title: "NeuroTools Apps"
+# Note: options available at: https://quarto.org/docs/websites/website-listings.html
+listing: 
+  contents: apps # all Quarto docs in the `posts` directory will be 
+  sort: "date desc"
+  type: table
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [image, title, description]
+  # fields: [image, date, title, reading-time, description, categories]
+  feed: true
+page-layout: full
+title-block-banner: true
+---
