@@ -1,6 +1,6 @@
 ---
 title: "Reliable Change"
-description: "Calcluate Reliable Change Indices for Neuropsychological Tests"
+description: "Calculate reliable change indices (RCIs) for neuropsychological tests to assess significant changes in cognitive performance over time. A range of methodological approaches, such as standard regression-based (SRB) models, which help to account for practice effects and regression to the mean are included. These methods ensure that changes observed in test scores are meaningful and not due to measurement error."
 author:
   - name: Chris Gaskell
     orcid: 0000-0002-7589-5246
@@ -8,15 +8,11 @@ author:
       - North Staffordshire Combined NHS Healthcare Tust
       - The University of Sheffield
 categories: [Reliable Change, Test Scores, Psychometrics]
-#image: preview-image.png
+image: img/reliable-change-preview-image.png
 #image: img/error.png
 draft: false
 bibliography: references.bib
 #csl: apa7.csl
 ---
 
-I am going to insert an inline footnote here[^1].
-
-[^1]: Here is my inline footnote
-
-[@aboukasm1998]
+![](img/reliable-change-preview-image.png)

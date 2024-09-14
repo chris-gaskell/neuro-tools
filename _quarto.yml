@@ -3,6 +3,7 @@ project:
 
 website:
   title: "NeuroPsyTools"
+  image: img/homepage_2024-09-13.png
   announcement: 
     icon: info-circle
     dismissable: true
@@ -41,18 +42,13 @@ website:
       #  text: Blog
       #- href: pages/author.qmd
       #  text: Author
-   # right:
-   #   - icon: github
-   #     href: https://github.com/
-   #   - icon: twitter
-   #     href: https://twitter.com/
   page-footer: 
     left: "Copyright 2024, NeuroTools"
     right:
       - icon: github
-        href: https://github.com/
+        href: https://github.com/chris-gaskell/neuro-tools
       - icon: twitter
-        href: https://twitter.com/
+        href: https://twitter.com/chrisgaskell92
     center:
       - href: pages/author.qmd
         text: Maintainer

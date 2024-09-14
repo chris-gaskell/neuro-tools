@@ -8,7 +8,7 @@
 
 <meta name="author" content="Chris Gaskell">
 <meta name="dcterms.date" content="2024-01-27">
-<meta name="description" content="Test for Deficits, Discrepancies, and Dissociations in Neuropsychology">
+<meta name="description" content="A Shiny App designed for the assessment of single cases, providing clinicians and researchers with functionalities to determine if there are deficits, discrepancies, or dissociations in test scores when compared to normative samples.">
 
 <title>Divergence – NeuroPsyTools</title>
 <style>
@@ -23,27 +23,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-  margin-bottom: 0em;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -106,38 +86,9 @@ gtag('js', new Date());
 gtag('config', 'G-3TJ48XKDR9', { 'anonymize_ip': true});
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <meta name="twitter:title" content="Divergence – NeuroPsyTools">
-<meta name="twitter:description" content="Test for Deficits, Discrepancies, and Dissociations in Neuropsychology">
+<meta name="twitter:description" content="A Shiny App designed for the assessment of single cases, providing clinicians and researchers with functionalities to determine if there are deficits, discrepancies, or dissociations in test scores when compared to normative samples.">
 <meta name="twitter:image" content="https://neuropsytools.com/pages/apps/3_divergence/img/homepage_2024-09-13.png">
 <meta name="twitter:creator" content="@chrisgaskell92">
 <meta name="twitter:card" content="summary_large_image">
@@ -171,17 +122,9 @@ window.Quarto = {
     <a class="nav-link" href="../../../pages/apps.html"> 
 <span class="menu-text">Apps</span></a>
   </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/"> <i class="bi bi-github" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/"> <i class="bi bi-twitter" role="img">
-</i> 
-<span class="menu-text"></span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../../../pages/resources.html"> 
+<span class="menu-text">Resources</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -195,8 +138,8 @@ window.Quarto = {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <div id="quarto-announcement" data-announcement-id="de1ecba08d9c4d5d055d4963b3cd03c6" class="alert alert-primary hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p><strong>Alert</strong> - This is a highly <em>developmental</em> version. Return back to see for further updates.</p>
+  <div id="quarto-announcement" data-announcement-id="09e608702866dff7b5b038aa464217b8" class="alert alert-primary hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
+<p><strong>Alert</strong> - This is a highly <em>developmental</em> version. Return back for further updates.</p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
@@ -221,7 +164,7 @@ window.Quarto = {
 
 <div>
   <div class="description">
-    Test for Deficits, Discrepancies, and Dissociations in Neuropsychology
+    A Shiny App designed for the assessment of single cases, providing clinicians and researchers with functionalities to determine if there are deficits, discrepancies, or dissociations in test scores when compared to normative samples.
   </div>
 </div>
 
@@ -260,24 +203,11 @@ window.Quarto = {
 </header>
 
 
-<p>I am going to insert an inline footnote here<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</p>
-<p><span class="citation" data-cites="aboukasm1998">(<a href="#ref-aboukasm1998" role="doc-biblioref">Aboukasm et al., 1998</a>)</span></p>
-<p><span class="math inline">\(E = mc^{2}\)</span></p>
+<p><img src="img/divergence-preview-image.png" class="img-fluid"></p>
 
 
 
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
-<div id="ref-aboukasm1998" class="csl-entry" role="listitem">
-Aboukasm, A., Mahr, G., Gahry, B. R., Thomas, A., &amp; Barkley, G. L. (1998). Retrospective Analysis of the Effects of Psychotherapeutic Interventions on Outcomes of Psychogenic Nonepileptic Seizures. <em>Epilepsia</em>, <em>39</em>(5), 470–473. <a href="https://doi.org/10.1111/j.1528-1157.1998.tb01407.x">https://doi.org/10.1111/j.1528-1157.1998.tb01407.x</a>
-</div>
-</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Here is my inline footnote<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

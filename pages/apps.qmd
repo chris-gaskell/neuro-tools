@@ -1,5 +1,5 @@
 ---
-title: "NeuroTools Apps"
+title: "NeuroPsyTools Apps"
 # Note: options available at: https://quarto.org/docs/websites/website-listings.html
 listing: 
   contents: apps # all Quarto docs in the `posts` directory will be 
@@ -14,3 +14,9 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+¬These apps are all developed using [Shiny](https://shiny.posit.co), a web application framework for [R](https://www.r-project.org) that allows for the creation of interactive, user-friendly web applications. Shiny apps enable users to input data, adjust parameters, and view results in real time, making them particularly useful for data analysis, visualization, and reporting.
+
+These apps were created with limited developer time, so please be sure to read the disclaimers and use them at your own risk. If you notice anything amiss, feel free to leave a courteous [message](mailto:chris-gaskell@hotmail.co.uk).
+
+We’d love to hear your ideas for new clinical psychology apps, so don’t hesitate to reach out!
