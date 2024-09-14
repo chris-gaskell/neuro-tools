@@ -9,6 +9,13 @@
 <link>https://neuropsytools.com/pages/blog.html</link>
 <atom:link href="https://neuropsytools.com/pages/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A place for neuropsychology nerds to assemble.</description>
+<image>
+<url>https://neuropsytools.com/img/twitter-img/homepage_2024-09-13.png</url>
+<title>NeuroPsyTools</title>
+<link>https://neuropsytools.com/pages/blog.html</link>
+<height>72</height>
+<width>144</width>
+</image>
 <generator>quarto-1.5.55</generator>
 <lastBuildDate>Sat, 27 Jan 2024 00:00:00 GMT</lastBuildDate>
 <item>

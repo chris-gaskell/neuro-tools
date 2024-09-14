@@ -20,6 +20,7 @@ If you like the resources, then please share! If you have something you would li
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   
 ```
+
 </div>
 
 This is a website devoted to collecting resources for those working in clinical neuropsychology.

@@ -27,8 +27,11 @@ about:
 <div>
 
 ```{=html}
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chris.gaskell" data-color="#2fa4e7" data-emoji="☕"  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+<div style="text-align: center;">
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chris.gaskell" data-color="#e9ecef" data-emoji="☕"  data-font="Lato" data-text="Support with Coffee" data-outline-color="#009adb" data-font-color="#009adb" data-coffee-color="#FFDD00"></script>
+</div>
 ```
+
 </div>
 
 <br>

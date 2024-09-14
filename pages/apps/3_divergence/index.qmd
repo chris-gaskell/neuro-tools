@@ -17,3 +17,44 @@ bibliography: references.bib
 ---
 
 ![](img/divergence-preview-image.png)
+
+
+The application is embedded as an iframe below however it is recommend to use this at the host site by clicking [here](https://chris-gaskell.shinyapps.io/dissociations/).
+
+If you like the app, consider sharing it with others?
+
+<div>
+
+```{=html}
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
+   class="twitter-share-button"
+   data-text="Convert, tabulate, and visualise neuropsychology test scores with Score Converter!"
+   data-via="chrisgaskell92"
+   data-hashtags="neuropsychology,neuropsytools"
+   data-show-count="true"
+   data-size="large"
+   data-dnt="true">Tweet</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
+```
+
+</div>
+
+<hr>
+
+```{=html}
+<iframe width="950" height="500" src="https://chris-gaskell.shinyapps.io/dissociations/" title="Reliable Change"></iframe>
+```
+
+<hr>
+
+<div>
+
+```{=html}
+<div style="text-align: center;">
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chris.gaskell" data-color="#e9ecef" data-emoji="☕"  data-font="Lato" data-text="Support with Coffee" data-outline-color="#009adb" data-font-color="#009adb" data-coffee-color="#FFDD00"></script>
+</div>
+```
+
+
+</div>

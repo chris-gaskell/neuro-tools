@@ -4,7 +4,7 @@ project:
 # options here: https://quarto.org/docs/reference/projects/websites.html
 website:
   title: "NeuroPsyTools"
-  image: img/homepage_2024-09-13.png
+  image: img/twitter-img/homepage_2024-09-13.png
   announcement: 
     icon: info-circle
     dismissable: true
