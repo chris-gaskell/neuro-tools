@@ -9,6 +9,7 @@ author:
       - The University of Sheffield
 categories: [Reliable Change, Test Scores, Psychometrics]
 #image: preview-image.png
+#image: img/error.png
 draft: false
 bibliography: references.bib
 #csl: apa7.csl

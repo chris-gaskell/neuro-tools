@@ -2,81 +2,77 @@ project:
   type: website
 
 website:
-  title: "NeuroTools"
-  #   cookie-consent:
-  #   type: express
-  #   style: headline
-  #   palette: dark
-  # google-analytics:
-  #   tracking-id: "G-XXXXXXX"
-  #   anonymize-ip: true
+  title: "NeuroPsyTools"
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**Alert** - This is a highly *developmental* version. Return back for further updates."
+    type: primary
+    position: below-navbar
+  description: "A place for neuropsychology nerds to assemble."
+  google-analytics:
+    tracking-id: "G-3TJ48XKDR9"
+    anonymize-ip: true
+    storage: none
   reader-mode: true
-  favicon: files/favicon.ico
-  twitter-card: true
-  #image: favicon.png
-  #card-style
-  #creator
-  #site
-  #site-url: https://example.com
+  favicon: img/favicon-color.ico
+  twitter-card: 
+    image: img/homepage_2024-09-13.png
+    card-style: summary_large_image
+    creator: "@chrisgaskell92"
+  site-url: https://neuropsytools.com
   search: 
     location: navbar
     type: overlay
   navbar:
-    background: primary
+    background: secondary
+    foreground: primary
     search: true
-    back-to-top-navigation: true
-    page-footer: 
-      border: false
-      background: false
-      left: "Copyright 2024, NeuroTools" 
-      # right: 
-      #   - icon: github
-      #     href: https://github.com/
-      #   - icon: twitter 
-      #     href: https://twitter.com/ 
-    #logo: img/favicon-brain_2.png
-    #logo-alt: 
-    #logo-href: 
-    # navbar:
-    #   tools:
-    #     - icon: twitter
-    #       href: https://twitter.com
-    #     - icon: github
-    #       menu:
-    #         - text: Source Code
-    #           url:  https://code.com
-    #         - text: Report a Bug
-    #           url:  https://bugs.com
+    back-to-top-navigation: tr
+    logo: img/favicon-grey.ico
     left:
-      - href: pages/landing.qmd
+      - href: index.qmd
         text: Home
       - href: pages/apps.qmd
         text: Apps
-      # - href: pages/blog.qmd
-      #   text: Blog        
-      - href: pages/blog.qmd
-        text: Blog
+      - href: pages/resources.qmd
+        text: Resources
+      #- href: pages/blog.qmd
+      #  text: Blog
+      #- href: pages/author.qmd
+      #  text: Author
+   # right:
+   #   - icon: github
+   #     href: https://github.com/
+   #   - icon: twitter
+   #     href: https://twitter.com/
+  page-footer: 
+    left: "Copyright 2024, NeuroTools"
+    right:
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com/
+    center:
       - href: pages/author.qmd
-        text: Author
-    # right:
-    #   - href: extra.qmd
-    #     text: Extras
-  # body-header: | 
-  #   This page brought to you by <https://example.com>
-  # margin-header: |
-  #   more ![Logo image](/img/logo.png)
+        text: Maintainer
+    border: true
+    background: secondary
+    foreground: primary
+
 
 # theming options: https://quarto.org/docs/output-formats/html-themes.html#dark-mode
 format:
   html:
     theme:
-      light: [cerulean, styles.scss]
+      light: cerulean
       dark: darkly
-    css: styles.css
+    #css: styles.css
     toc: true
     toc-depth: 2
     fontsize: 1.1em
     linestretch: 1.7
+    #include-after-body: ../footer.html
 
 editor: visual
 

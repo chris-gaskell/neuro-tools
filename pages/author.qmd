@@ -24,6 +24,15 @@ about:
     #   href: Academic_CV_2023.pdf
 ---
 
+<div>
+
+```{=html}
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chris.gaskell" data-color="#2fa4e7" data-emoji="☕"  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+```
+</div>
+
+<br>
+
 Chris Gaskell is a Senior Clinical Psychologist in Neuropsychology in the UK. When not working clinically he tends to been seen talking about his rescue dog (Leo) and making futile attempts at programming/web development.
 
 ## Education

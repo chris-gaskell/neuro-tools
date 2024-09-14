@@ -1,6 +1,7 @@
 ---
 title: "Score Converter"
-description: "Convert Tabulate and Visualise Psychometric test Scores."
+description: "Convert Tabulate and Visualise Psychometric test Scores.
+Convert Tabulate and Visualise Psychometric test Scores.Convert Tabulate and Visualise Psychometric test Scores.Convert Tabulate and Visualise Psychometric test Scores.Convert Tabulate and Visualise Psychometric test Scores.Convert Tabulate and Visualise Psychometric test Scores."
 author:
   - name: Chris Gaskell
     orcid: 0000-0002-7589-5246
@@ -9,7 +10,7 @@ author:
       - The University of Sheffield
 #date: 01-27-2024
 categories: [Data Visualisation, Test Scores, Psychometrics]
-#image: img/error.png
+image: img/error.png
 draft: false
 bibliography: references.bib
 #csl: apa7.csl

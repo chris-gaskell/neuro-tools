@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 6d76c541-7601-4b40-81df-103eea0e7acd
+      url: 'https://neuropsytools.com'

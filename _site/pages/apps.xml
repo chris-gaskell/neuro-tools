@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>NeuroPsyTools</title>
+<link>https://neuropsytools.com/pages/apps.html</link>
+<atom:link href="https://neuropsytools.com/pages/apps.xml" rel="self" type="application/rss+xml"/>
+<description>A place for neuropsychology nerds to assemble.</description>
+<generator>quarto-1.5.55</generator>
+<lastBuildDate>Sat, 27 Jan 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Divergence</title>
+  <dc:creator>Chris Gaskell</dc:creator>
+  <link>https://neuropsytools.com/pages/apps/3_divergence/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I am going to insert an inline footnote here<sup>1</sup>.</p>
+<p><span class="citation" data-cites="aboukasm1998">(Aboukasm et al., 1998)</span></p>
+<p><img src="https://latex.codecogs.com/png.latex?E%20=%20mc%5E%7B2%7D"></p>
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-aboukasm1998" class="csl-entry">
+Aboukasm, A., Mahr, G., Gahry, B. R., Thomas, A., &amp; Barkley, G. L. (1998). Retrospective Analysis of the Effects of Psychotherapeutic Interventions on Outcomes of Psychogenic Nonepileptic Seizures. <em>Epilepsia</em>, <em>39</em>(5), 470–473. <a href="https://doi.org/10.1111/j.1528-1157.1998.tb01407.x">https://doi.org/10.1111/j.1528-1157.1998.tb01407.x</a>
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Here is my inline footnote↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Stats</category>
+  <category>Psychometrics</category>
+  <category>Error</category>
+  <guid>https://neuropsytools.com/pages/apps/3_divergence/</guid>
+  <pubDate>Sat, 27 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Score Converter</title>
+  <dc:creator>Chris Gaskell</dc:creator>
+  <link>https://neuropsytools.com/pages/apps/2_score_converter/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I am going to insert an inline footnote here<sup>1</sup>.</p>
+<p><span class="citation" data-cites="aboukasm1998">(Aboukasm et al., 1998)</span></p>
+<p><img src="https://latex.codecogs.com/png.latex?E%20=%20mc%5E%7B2%7D"></p>
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-aboukasm1998" class="csl-entry">
+Aboukasm, A., Mahr, G., Gahry, B. R., Thomas, A., &amp; Barkley, G. L. (1998). Retrospective Analysis of the Effects of Psychotherapeutic Interventions on Outcomes of Psychogenic Nonepileptic Seizures. <em>Epilepsia</em>, <em>39</em>(5), 470–473. <a href="https://doi.org/10.1111/j.1528-1157.1998.tb01407.x">https://doi.org/10.1111/j.1528-1157.1998.tb01407.x</a>
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Here is my inline footnote↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Data Visualisation</category>
+  <category>Test Scores</category>
+  <category>Psychometrics</category>
+  <guid>https://neuropsytools.com/pages/apps/2_score_converter/</guid>
+  <pubDate>Fri, 13 Sep 2024 18:05:55 GMT</pubDate>
+  <media:content url="https://neuropsytools.com/pages/apps/2_score_converter/img/error.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Reliable Change</title>
+  <dc:creator>Chris Gaskell</dc:creator>
+  <link>https://neuropsytools.com/pages/apps/1_reliable_change/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I am going to insert an inline footnote here<sup>1</sup>.</p>
+<p><span class="citation" data-cites="aboukasm1998">(Aboukasm et al., 1998)</span></p>
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-aboukasm1998" class="csl-entry">
+Aboukasm, A., Mahr, G., Gahry, B. R., Thomas, A., &amp; Barkley, G. L. (1998). Retrospective Analysis of the Effects of Psychotherapeutic Interventions on Outcomes of Psychogenic Nonepileptic Seizures. <em>Epilepsia</em>, <em>39</em>(5), 470–473. <a href="https://doi.org/10.1111/j.1528-1157.1998.tb01407.x">https://doi.org/10.1111/j.1528-1157.1998.tb01407.x</a>
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Here is my inline footnote↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Reliable Change</category>
+  <category>Test Scores</category>
+  <category>Psychometrics</category>
+  <guid>https://neuropsytools.com/pages/apps/1_reliable_change/</guid>
+  <pubDate>Fri, 13 Sep 2024 18:05:55 GMT</pubDate>
+</item>
+</channel>
+</rss>

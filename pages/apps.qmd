@@ -4,7 +4,7 @@ title: "NeuroTools Apps"
 listing: 
   contents: apps # all Quarto docs in the `posts` directory will be 
   sort: "date desc"
-  type: table
+  type: grid
   categories: false
   sort-ui: false
   filter-ui: false
