@@ -5,10 +5,10 @@ project:
 website:
   title: "NeuroPsyTools"
   image: https://github.com/chris-gaskell/neuro-tools/blob/master/img/twitter-img/homepage_2024-09-13.png?raw=true
-  announcement: 
+  announcement:
     icon: info-circle
     dismissable: true
-    content: "**Alert** - This is a highly *developmental* version. Return back for further updates."
+    content: "**Warning** - This is a highly *developmental* version of NeuroPsyTools. Return back for further updates."
     type: primary
     position: below-navbar
   description: "A place for neuropsychology nerds to assemble."
@@ -18,19 +18,19 @@ website:
     storage: none
   reader-mode: true
   favicon: img/favicon-color.ico
-  twitter-card: 
+  twitter-card:
     image: img/homepage_2024-09-13.png
     card-style: summary_large_image
     creator: "@chrisgaskell92"
   site-url: https://neuropsytools.com
-  search: 
+  search:
     location: navbar
     type: overlay
   navbar:
     background: secondary
     foreground: primary
     search: true
-    back-to-top-navigation: tr
+    #back-to-top-navigation: tr
     logo: img/favicon-grey.ico
     left:
       - href: index.qmd
@@ -39,11 +39,7 @@ website:
         text: Apps
       - href: pages/resources.qmd
         text: Resources
-      #- href: pages/blog.qmd
-      #  text: Blog
-      #- href: pages/author.qmd
-      #  text: Author
-  page-footer: 
+  page-footer:
     left: "Copyright 2024, NeuroTools"
     right:
       - icon: github
@@ -64,12 +60,9 @@ format:
     theme:
       light: cerulean
       dark: darkly
-    #css: styles.css
     toc: true
     toc-depth: 2
     fontsize: 1.1em
     linestretch: 1.7
-    #include-after-body: ../footer.html
 
 editor: visual
-

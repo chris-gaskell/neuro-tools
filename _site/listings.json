@@ -9,9 +9,10 @@
   {
     "listing": "/pages/apps.html",
     "items": [
+      "/pages/apps/3_divergence/index.html",
       "/pages/apps/2_score_converter/index.html",
       "/pages/apps/1_reliable_change/index.html",
-      "/pages/apps/3_divergence/index.html"
+      "/pages/apps/4_therapy_outcomes/index.html"
     ]
   },
   {

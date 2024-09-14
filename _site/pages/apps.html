@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
@@ -195,8 +195,8 @@ window.Quarto = {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <div id="quarto-announcement" data-announcement-id="09e608702866dff7b5b038aa464217b8" class="alert alert-primary hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p><strong>Alert</strong> - This is a highly <em>developmental</em> version. Return back for further updates.</p>
+  <div id="quarto-announcement" data-announcement-id="dbf1b6f154da2cbe5d89002c9e18c12b" class="alert alert-primary hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
+<p><strong>Warning</strong> - This is a highly <em>developmental</em> version of NeuroPsyTools. Return back for further updates.</p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
@@ -229,8 +229,9 @@ window.Quarto = {
 
 
 
-<p>¬These apps are all developed using <a href="https://shiny.posit.co">Shiny</a>, a web application framework for <a href="https://www.r-project.org">R</a> that allows for the creation of interactive, user-friendly web applications. Shiny apps enable users to input data, adjust parameters, and view results in real time, making them particularly useful for data analysis, visualization, and reporting.</p>
-<p>These apps were created with limited developer time, so please be sure to read the disclaimers and use them at your own risk. If you notice anything amiss, feel free to leave a courteous <a href="mailto:chris-gaskell@hotmail.co.uk">message</a>.</p>
+<p>These apps are all developed using <a href="https://shiny.posit.co">Shiny</a>, a web application framework for <a href="https://www.r-project.org">R</a> that allows for the creation of interactive, user-friendly web applications.</p>
+<p>Shiny apps enable users to input data, adjust parameters, and view results in real time, making them particularly useful for data analysis, visualisation, and reporting (and therefore clinical neuropsychology! 🚀.</p>
+<p>These apps were created with very limited developer time, so please be sure to read the disclaimers and use them at your own risk. If you notice anything amiss, feel free to leave a courteous <a href="mailto:chris-gaskell@hotmail.co.uk">message</a>.</p>
 <p>We’d love to hear your ideas for new clinical psychology apps, so don’t hesitate to reach out!</p>
 
 
@@ -238,7 +239,33 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Data Visualisation,Test Scores,Psychometrics" data-listing-file-modified-sort="1726297899077" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
+<div class="g-col-1" data-index="0" data-categories="Dissociation,Single-Case,Psychometrics" data-listing-date-sort="1719788400000" data-listing-file-modified-sort="1726325660408" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<a href="../pages/apps/3_divergence/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="apps/3_divergence/img/divergence-preview-image.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Divergence
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Dissociation'); return false;">
+Dissociation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Single-Case'); return false;">
+Single-Case
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Psychometrics'); return false;">
+Psychometrics
+</div>
+</div>
+<div class="card-text listing-description">
+A Shiny App designed for the assessment of single cases, providing clinicians and researchers with functionalities to determine if there are deficits, discrepancies, or…
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Data Visualisation,Single-Case,Test Scores" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1726325686322" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="54">
 <a href="../pages/apps/2_score_converter/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -248,6 +275,17 @@ window.Quarto = {
 <h5 class="no-anchor card-title listing-title">
 Score Converter
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Data Visualisation'); return false;">
+Data Visualisation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Single-Case'); return false;">
+Single-Case
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Test Scores'); return false;">
+Test Scores
+</div>
+</div>
 <div class="card-text listing-description">
 Score Converter is a shiny app that allows users to convert single test scores (using a web interface) or large batteries of test results (using spreadsheet upload). A suite…
 </div>
@@ -255,7 +293,7 @@ Score Converter is a shiny app that allows users to convert single test scores (
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Reliable Change,Test Scores,Psychometrics" data-listing-file-modified-sort="1726297610755" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
+<div class="g-col-1" data-index="2" data-categories="Reliable Change,Single-Case,Stability" data-listing-date-sort="1688166000000" data-listing-file-modified-sort="1726325638241" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
 <a href="../pages/apps/1_reliable_change/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -265,6 +303,17 @@ Score Converter is a shiny app that allows users to convert single test scores (
 <h5 class="no-anchor card-title listing-title">
 Reliable Change
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Reliable Change'); return false;">
+Reliable Change
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Single-Case'); return false;">
+Single-Case
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Stability'); return false;">
+Stability
+</div>
+</div>
 <div class="card-text listing-description">
 Calculate reliable change indices (RCIs) for neuropsychological tests to assess significant changes in cognitive performance over time. A range of methodological approaches…
 </div>
@@ -272,16 +321,29 @@ Calculate reliable change indices (RCIs) for neuropsychological tests to assess 
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Stats,Psychometrics,Error" data-listing-date-sort="1706313600000" data-listing-file-modified-sort="1726297944653" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
-<a href="../pages/apps/3_divergence/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-categories="Therapy Outcomes,Effectiveness,Psychometrics" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1726325517396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="54">
+<a href="../pages/apps/4_therapy_outcomes/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="apps/3_divergence/img/divergence-preview-image.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top">
+<img loading="lazy" src="../pages/apps/4_therapy_outcomes/img/therapy-outcomes-preview-image.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Divergence
+Therapy Outcomes
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Therapy Outcomes'); return false;">
+Therapy Outcomes
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Effectiveness'); return false;">
+Effectiveness
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Psychometrics'); return false;">
+Psychometrics
+</div>
+</div>
 <div class="card-text listing-description">
-A Shiny App designed for the assessment of single cases, providing clinicians and researchers with functionalities to determine if there are deficits, discrepancies, or…
+Therapy Outcomes is a shiny app that calculates the effectiveness of a therapy service based on basic descriptive statistics, before providing a benchmark performance…
 </div>
 </div>
 </div>

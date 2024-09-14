@@ -10,14 +10,12 @@
 <atom:link href="https://neuropsytools.com/pages/apps.xml" rel="self" type="application/rss+xml"/>
 <description>A place for neuropsychology nerds to assemble.</description>
 <image>
-<url>https://neuropsytools.com/img/twitter-img/homepage_2024-09-13.png</url>
+<url>https://github.com/chris-gaskell/neuro-tools/blob/master/img/twitter-img/homepage_2024-09-13.png?raw=true</url>
 <title>NeuroPsyTools</title>
 <link>https://neuropsytools.com/pages/apps.html</link>
-<height>72</height>
-<width>144</width>
 </image>
 <generator>quarto-1.5.55</generator>
-<lastBuildDate>Sat, 27 Jan 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 30 Jun 2024 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Divergence</title>
   <dc:creator>Chris Gaskell</dc:creator>
@@ -30,13 +28,8 @@
 <p><img src="https://neuropsytools.com/pages/apps/3_divergence/img/divergence-preview-image.png" class="img-fluid"></p>
 <p>The application is embedded as an iframe below however it is recommend to use this at the host site by clicking <a href="https://chris-gaskell.shinyapps.io/dissociations/">here</a>.</p>
 <p>If you like the app, consider sharing it with others?</p>
-<div>
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Convert, tabulate, and visualise neuropsychology test scores with Score Converter!" data-via="chrisgaskell92" data-hashtags="neuropsychology,neuropsytools" data-show-count="true" data-size="large" data-dnt="true">Tweet</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  
-</div>
 <hr>
-<iframe width="950" height="500" src="https://chris-gaskell.shinyapps.io/dissociations/" title="Reliable Change"></iframe>
+<iframe width="950" height="500" src="https://chris-gaskell.shinyapps.io/dissociations/" title="Divergence"></iframe>
 <hr>
 <div>
 <div style="text-align: center;">
@@ -47,11 +40,11 @@
 
 
  ]]></description>
-  <category>Stats</category>
+  <category>Dissociation</category>
+  <category>Single-Case</category>
   <category>Psychometrics</category>
-  <category>Error</category>
   <guid>https://neuropsytools.com/pages/apps/3_divergence/</guid>
-  <pubDate>Sat, 27 Jan 2024 00:00:00 GMT</pubDate>
+  <pubDate>Sun, 30 Jun 2024 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Score Converter</title>
@@ -65,13 +58,8 @@
 <p><img src="https://neuropsytools.com/pages/apps/2_score_converter/img/score-converter-preview-image.png" class="img-fluid"></p>
 <p>The application is embedded as an iframe below however it is recommend to use this at the host site by clicking <a href="https://chris-gaskell.shinyapps.io/score-converter/">here</a>.</p>
 <p>If you like the app, consider sharing it with others?</p>
-<div>
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Convert, tabulate, and visualise neuropsychology test scores with Score Converter!" data-via="chrisgaskell92" data-hashtags="neuropsychology,neuropsytools" data-show-count="true" data-size="large" data-dnt="true">Tweet</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  
-</div>
 <hr>
-<iframe width="950" height="500" src="https://chris-gaskell.shinyapps.io/score-converter/" title="Reliable Change"></iframe>
+<iframe width="950" height="500" src="https://chris-gaskell.shinyapps.io/score-converter/" title="Score Converter"></iframe>
 <hr>
 <div>
 <div style="text-align: center;">
@@ -83,10 +71,10 @@
 
  ]]></description>
   <category>Data Visualisation</category>
+  <category>Single-Case</category>
   <category>Test Scores</category>
-  <category>Psychometrics</category>
   <guid>https://neuropsytools.com/pages/apps/2_score_converter/</guid>
-  <pubDate>Sat, 14 Sep 2024 07:13:05 GMT</pubDate>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
   <media:content url="https://neuropsytools.com/pages/apps/2_score_converter/img/score-converter-preview-image.png" medium="image" type="image/png" height="72" width="144"/>
 </item>
 <item>
@@ -104,13 +92,9 @@
 <figcaption>A demonstration plot retrieved from the Reliable Change shiny app.</figcaption>
 </figure>
 </div>
+<p>Just testing: <code>r 2+2</code></p>
 <p>The application is embedded as an iframe below however it is recommend to use this at the host site by clicking <a href="https://chris-gaskell.shinyapps.io/reliable-change/">here</a>.</p>
 <p>If you like the app, consider sharing it with others?</p>
-<div>
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Calculate reliable change for common neuropsychological tests!" data-via="chrisgaskell92" data-hashtags="neuropsychology,neuropsytools" data-show-count="true" data-size="large" data-dnt="true">Tweet</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  
-</div>
 <hr>
 <iframe width="950" height="500" src="https://chris-gaskell.shinyapps.io/reliable-change/" title="Reliable Change"></iframe>
 <hr>
@@ -124,11 +108,42 @@
 
  ]]></description>
   <category>Reliable Change</category>
-  <category>Test Scores</category>
-  <category>Psychometrics</category>
+  <category>Single-Case</category>
+  <category>Stability</category>
   <guid>https://neuropsytools.com/pages/apps/1_reliable_change/</guid>
-  <pubDate>Sat, 14 Sep 2024 07:13:05 GMT</pubDate>
+  <pubDate>Fri, 30 Jun 2023 23:00:00 GMT</pubDate>
   <media:content url="https://neuropsytools.com/pages/apps/1_reliable_change/img/reliable-change-preview-image.png" medium="image" type="image/png" height="61" width="144"/>
+</item>
+<item>
+  <title>Therapy Outcomes</title>
+  <dc:creator>Chris Gaskell</dc:creator>
+  <link>https://neuropsytools.com/pages/apps/4_therapy_outcomes/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://neuropsytools.com/pages/apps/4_therapy_outcomes/img/therapy-outcomes-preview-image.png" class="img-fluid"></p>
+<p>The application is embedded as an iframe below however it is recommend to use this at the host site by clicking <a href="https://chris-gaskell.shinyapps.io/effectiveness-meta-shiny/">here</a>.</p>
+<p>If you like the app, consider sharing it with others?</p>
+<hr>
+<iframe width="950" height="500" src="https://chris-gaskell.shinyapps.io/effectiveness-meta-shiny/" title="Therapy Outcomes"></iframe>
+<hr>
+<div>
+<div style="text-align: center;">
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chris.gaskell" data-color="#e9ecef" data-emoji="☕" data-font="Lato" data-text="Support with Coffee" data-outline-color="#009adb" data-font-color="#009adb" data-coffee-color="#FFDD00"></script>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>Therapy Outcomes</category>
+  <category>Effectiveness</category>
+  <category>Psychometrics</category>
+  <guid>https://neuropsytools.com/pages/apps/4_therapy_outcomes/</guid>
+  <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://neuropsytools.com/pages/apps/4_therapy_outcomes/img/therapy-outcomes-preview-image.png" medium="image" type="image/png" height="72" width="144"/>
 </item>
 </channel>
 </rss>

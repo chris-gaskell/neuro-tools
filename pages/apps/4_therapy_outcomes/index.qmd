@@ -1,31 +1,32 @@
 ---
-title: "Divergence"
-description: "A Shiny App designed for the assessment of single cases, providing clinicians and researchers with functionalities to determine if there are deficits, discrepancies, or dissociations in test scores when compared to normative samples."
+title: "Therapy Outcomes"
+description: "Therapy Outcomes is a shiny app that calculates the effectiveness of a therapy service based on basic descriptive statistics, before providing a benchmark performance indicators based on meta-analytic findings."
 author:
   - name: Chris Gaskell
     orcid: 0000-0002-7589-5246
     affiliation:
       - North Staffordshire Combined NHS Healthcare Tust
       - The University of Sheffield
-date: 07-01-2024
-categories: [Dissociation, Single-Case, Psychometrics]
-#image: img/error.png
+date: 01/01/2023
+categories: [Therapy Outcomes, Effectiveness, Psychometrics]
+image: img/therapy-outcomes-preview-image.png
 draft: false
 bibliography: references.bib
 #csl: apa7.csl
 # for help with latex equations: https://rpruim.github.io/s341/S19/from-class/MathinRmd.html#:~:text=Math%20inside%20RMarkdown,10n%3D1n2.
 ---
 
-![](img/divergence-preview-image.png)
 
-The application is embedded as an iframe below however it is recommend to use this at the host site by clicking [here](https://chris-gaskell.shinyapps.io/dissociations/).
+![](img/therapy-outcomes-preview-image.png)
+
+The application is embedded as an iframe below however it is recommend to use this at the host site by clicking [here](https://chris-gaskell.shinyapps.io/effectiveness-meta-shiny/).
 
 If you like the app, consider sharing it with others?
 
 <hr>
 
 ```{=html}
-<iframe width="950" height="500" src="https://chris-gaskell.shinyapps.io/dissociations/" title="Divergence"></iframe>
+<iframe width="950" height="500" src="https://chris-gaskell.shinyapps.io/effectiveness-meta-shiny/" title="Therapy Outcomes"></iframe>
 ```
 <hr>
 

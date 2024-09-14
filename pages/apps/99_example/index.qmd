@@ -7,7 +7,7 @@ author:
     affiliation:
       - North Staffordshire Combined NHS Healthcare Tust
       - The University of Sheffield
-date: 01-27-2024
+date: 01-27-1900
 categories: [Stats, Psychometrics, Error]
 #image: img/error.png
 draft: true

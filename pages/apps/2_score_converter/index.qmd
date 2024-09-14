@@ -7,11 +7,12 @@ author:
     affiliation:
       - North Staffordshire Combined NHS Healthcare Tust
       - The University of Sheffield
-#date: 01-27-2024
-categories: [Data Visualisation, Test Scores, Psychometrics]
+date: 01/01/2024
+categories: [Data Visualisation, Single-Case, Test Scores]
 image: img/score-converter-preview-image.png
 draft: false
 bibliography: references.bib
+
 #csl: apa7.csl
 # for help with latex equations: https://rpruim.github.io/s341/S19/from-class/MathinRmd.html#:~:text=Math%20inside%20RMarkdown,10n%3D1n2.
 ---
@@ -22,29 +23,11 @@ The application is embedded as an iframe below however it is recommend to use th
 
 If you like the app, consider sharing it with others?
 
-<div>
-
-```{=html}
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
-   class="twitter-share-button"
-   data-text="Convert, tabulate, and visualise neuropsychology test scores with Score Converter!"
-   data-via="chrisgaskell92"
-   data-hashtags="neuropsychology,neuropsytools"
-   data-show-count="true"
-   data-size="large"
-   data-dnt="true">Tweet</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  
-```
-
-</div>
-
 <hr>
 
 ```{=html}
-<iframe width="950" height="500" src="https://chris-gaskell.shinyapps.io/score-converter/" title="Reliable Change"></iframe>
+<iframe width="950" height="500" src="https://chris-gaskell.shinyapps.io/score-converter/" title="Score Converter"></iframe>
 ```
-
 <hr>
 
 <div>
@@ -54,6 +37,5 @@ If you like the app, consider sharing it with others?
   <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chris.gaskell" data-color="#e9ecef" data-emoji="☕"  data-font="Lato" data-text="Support with Coffee" data-outline-color="#009adb" data-font-color="#009adb" data-coffee-color="#FFDD00"></script>
 </div>
 ```
-
 
 </div>

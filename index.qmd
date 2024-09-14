@@ -2,33 +2,41 @@
 # Listing options: https://quarto.org/docs/websites/website-listings.html
 title: "NeuroPsyTools"
 subtitle: "A place for neuropsychology nerds to assemble."
+execute: 
+  eval: true
 ---
+
+```{r}
+
+```
+
+**Welcome to NeuroPsyTools!**
+
+I created this space to bring together the [web apps](pages/apps.qmd) I’ve developed for my clinical neuropsychology practice. While doing that, I thought it would also be cool to compile a directory of external [resources](pages/resources.qmd) showcasing the fantastic contributions others have made over the years.
+
+If you have any suggestions for new web apps or know of any great resources to add to the directory, feel free to [get in touch](mailto:chris-gaskell@hotmail.co.uk). I'm always up for exciting new projects and collaborations!
+
+I’ve got some ideas for future additions (like blogs, cheat sheets, and more), but I won’t get ahead of myself. Writing and programming take time, so updates may not happen frequently — but stay tuned!
+
+And if you like what you see - please share! ♥️
 
 <div>
 
-If you like the resources, then please share! If you have something you would like to see included on **NeuroPsyTools** then please [*contact us*](mailto:chris-gaskell@hotmail.co.uk).
-
 ```{=html}
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
-   class="twitter-share-button"
-   data-text="Learn more about neuropsychological tools using the neuropsytools website!"
-   data-via="chrisgaskell92"
-   data-hashtags="neuropsychology,neuropsytools"
-   data-show-count="true"
-   data-size="large"
-   data-dnt="true">Tweet</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+class="twitter-share-button"
+data-text="Learn more about neuropsychological tools using the neuropsytools website!"
+data-via="chrisgaskell92"
+data-hashtags="neuropsychology,neuropsytools"
+data-show-count="true"
+data-size="large"
+data-dnt="true">Tweet</a>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   
 ```
 
 </div>
 
-This is a website devoted to collecting resources for those working in clinical neuropsychology.
+**Last updated:** `r format(Sys.Date(), '%d %B %Y')`
 
-The website is currently divided into into Apps and (External) Resources - watch this space for future pages!
-
-## Featured
-
-## Apps {#website-landing-calculators}
-
-## Resources {#website-landing-guides}
+![](img/front-image.png){fig-align="center"}
