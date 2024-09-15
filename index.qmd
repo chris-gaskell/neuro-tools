@@ -4,6 +4,21 @@ title: "NeuroPsyTools"
 subtitle: "A place for neuropsychology nerds to assemble."
 execute: 
   eval: true
+# https://github.com/schochastics/quarto-social-share
+filters:
+- social-share
+share:
+  permalink: "https://neuropsytools.com"
+  description: "Web apps and resources for clinical neuropsychology!"
+  twitter: true
+  facebook: true
+  linkedin: true
+  email: true
+  mastodon: true
+  location: "before-body"
+# When I have time to sort comments
+  # see this thread: https://github.com/quarto-dev/quarto-cli/discussions/8581
+  # it uses Isso: https://isso-comments.de/docs/
 ---
 
 ```{r}
@@ -20,22 +35,6 @@ I’ve got some ideas for future additions (like blogs, cheat sheets, and more),
 
 And if you like what you see - please share! ♥️
 
-<div>
-
-```{=html}
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
-class="twitter-share-button"
-data-text="Learn more about neuropsychological tools using the neuropsytools website!"
-data-via="chrisgaskell92"
-data-hashtags="neuropsychology,neuropsytools"
-data-show-count="true"
-data-size="large"
-data-dnt="true">Tweet</a>
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  
-```
-
-</div>
 
 **Last updated:** `r format(Sys.Date(), '%d %B %Y')`
 

@@ -7,19 +7,19 @@
     ]
   },
   {
+    "listing": "/pages/stats-series.html",
+    "items": [
+      "/pages/posts/stats-series/2024-01-27_standard_errors/index.html",
+      "/pages/posts/stats-series/2024-01-27_stats_101/index.html"
+    ]
+  },
+  {
     "listing": "/pages/apps.html",
     "items": [
       "/pages/apps/3_divergence/index.html",
       "/pages/apps/2_score_converter/index.html",
       "/pages/apps/1_reliable_change/index.html",
       "/pages/apps/4_therapy_outcomes/index.html"
-    ]
-  },
-  {
-    "listing": "/pages/stats-series.html",
-    "items": [
-      "/pages/posts/stats-series/2024-01-27_standard_errors/index.html",
-      "/pages/posts/stats-series/2024-01-27_stats_101/index.html"
     ]
   }
 ]
