@@ -7,74 +7,11 @@
     "text": "For a specific look at the statistics series then click here.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nHow Many Standard Errors?\n\n\n1 min\n\n\n\nStats\n\n\nPsychometrics\n\n\nError\n\n\n\nAn introduction to the family of standard errors in neuropsychology\n\n\n\nJan 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n1 min\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pages/apps/1_reliable_change/index.html",
-    "href": "pages/apps/1_reliable_change/index.html",
-    "title": "Reliable Change",
-    "section": "",
-    "text": "A demonstration plot retrieved from the Reliable Change shiny app.\n\n\nJust testing: r 2+2\nThe application is embedded as an iframe below however it is recommend to use this at the host site by clicking here.\nIf you like the app, consider sharing it with others?"
-  },
-  {
-    "objectID": "pages/apps/3_divergence/index.html",
-    "href": "pages/apps/3_divergence/index.html",
-    "title": "Divergence",
+    "objectID": "pages/apps/2_score_converter/index.html",
+    "href": "pages/apps/2_score_converter/index.html",
+    "title": "Score Converter",
     "section": "",
     "text": "The application is embedded as an iframe below however it is recommend to use this at the host site by clicking here.\nIf you like the app, consider sharing it with others?"
-  },
-  {
-    "objectID": "pages/apps/4_therapy_outcomes/index.html",
-    "href": "pages/apps/4_therapy_outcomes/index.html",
-    "title": "Therapy Outcomes",
-    "section": "",
-    "text": "The application is embedded as an iframe below however it is recommend to use this at the host site by clicking here.\nIf you like the app, consider sharing it with others?"
-  },
-  {
-    "objectID": "pages/stats-series.html",
-    "href": "pages/stats-series.html",
-    "title": "Series: Statistics in Neuropsychology",
-    "section": "",
-    "text": "How Many Standard Errors?\n\n\n\n\n\nAn introduction to the family of standard errors in neuropsychology\n\n\n\n\n\nJan 27, 2024\n\n\n1 min\n\n\n\n\n\n\n\nblog post title\n\n\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\n\n\nOct 24, 2022\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pages/posts/stats-series/2024-01-27_stats_101/index.html",
-    "href": "pages/posts/stats-series/2024-01-27_stats_101/index.html",
-    "title": "blog post title",
-    "section": "",
-    "text": "I am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)"
-  },
-  {
-    "objectID": "pages/posts/stats-series/2024-01-27_stats_101/index.html#footnotes",
-    "href": "pages/posts/stats-series/2024-01-27_stats_101/index.html#footnotes",
-    "title": "blog post title",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "NeuroPsyTools",
-    "section": "",
-    "text": "Welcome to NeuroPsyTools!\nI created this space to bring together the web apps I’ve developed for my clinical neuropsychology practice. While doing that, I thought it would also be cool to compile a directory of external resources showcasing the fantastic contributions others have made over the years.\nIf you have any suggestions for new web apps or know of any great resources to add to the directory, feel free to get in touch. I’m always up for exciting new projects and collaborations!\nI’ve got some ideas for future additions (like blogs, cheat sheets, and more), but I won’t get ahead of myself. Writing and programming take time, so updates may not happen frequently — but stay tuned!\nAnd if you like what you see - please share! ♥️\nLast updated: 15 September 2024"
-  },
-  {
-    "objectID": "pages/posts/stats-series/2024-01-27_standard_errors/index.html",
-    "href": "pages/posts/stats-series/2024-01-27_standard_errors/index.html",
-    "title": "How Many Standard Errors?",
-    "section": "",
-    "text": "I am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)\n\\(E = mc^{2}\\)"
-  },
-  {
-    "objectID": "pages/posts/stats-series/2024-01-27_standard_errors/index.html#footnotes",
-    "href": "pages/posts/stats-series/2024-01-27_standard_errors/index.html#footnotes",
-    "title": "How Many Standard Errors?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
-  },
-  {
-    "objectID": "pages/apps.html",
-    "href": "pages/apps.html",
-    "title": "NeuroPsyTools Apps",
-    "section": "",
-    "text": "These apps are all developed using Shiny, a web application framework for R that allows for the creation of interactive, user-friendly web applications.\nShiny apps enable users to input data, adjust parameters, and view results in real time, making them particularly useful for data analysis, visualisation, and reporting (and therefore clinical neuropsychology! 🚀.\nThese apps were created with very limited developer time, so please be sure to read the disclaimers and use them at your own risk. If you notice anything amiss, feel free to leave a courteous message.\nWe’d love to hear your ideas for new clinical psychology apps, so don’t hesitate to reach out!\n\n\n\n\n\n\n\n\n\n\n\n\nDivergence\n\n\n\nDissociation\n\n\nSingle-Case\n\n\nPsychometrics\n\n\n\nA Shiny App designed for the assessment of single cases, providing clinicians and researchers with functionalities to determine if there are deficits, discrepancies, or…\n\n\n\n\n\n\n\n\n\n\n\n\n\nScore Converter\n\n\n\nData Visualisation\n\n\nSingle-Case\n\n\nTest Scores\n\n\n\nScore Converter is a shiny app that allows users to convert single test scores (using a web interface) or large batteries of test results (using spreadsheet upload). A suite…\n\n\n\n\n\n\n\n\n\n\n\n\n\nReliable Change\n\n\n\nReliable Change\n\n\nSingle-Case\n\n\nStability\n\n\n\nCalculate reliable change indices (RCIs) for neuropsychological tests to assess significant changes in cognitive performance over time. A range of methodological approaches…\n\n\n\n\n\n\n\n\n\n\n\n\n\nTherapy Outcomes\n\n\n\nTherapy Outcomes\n\n\nEffectiveness\n\n\nPsychometrics\n\n\n\nTherapy Outcomes is a shiny app that calculates the effectiveness of a therapy service based on basic descriptive statistics, before providing a benchmark performance…\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pages/author.html",
@@ -98,18 +35,81 @@
     "text": "Experience\nNHS | Senior Clinical Psychologist | August 2022 - present\nIndigoNeuro | Associate Psychologist | August 2020 - present\nNorth West Neurotherapeutics | Associate Psychologist | August 2023 - present"
   },
   {
-    "objectID": "pages/apps/2_score_converter/index.html",
-    "href": "pages/apps/2_score_converter/index.html",
-    "title": "Score Converter",
+    "objectID": "pages/apps.html",
+    "href": "pages/apps.html",
+    "title": "NeuroPsyTools Apps",
+    "section": "",
+    "text": "These apps are all developed using Shiny, a web application framework for R that allows for the creation of interactive, user-friendly web applications.\nShiny apps enable users to input data, adjust parameters, and view results in real time, making them particularly useful for data analysis, visualisation, and reporting (and therefore clinical neuropsychology! 🚀.\nThese apps were created with very limited developer time, so please be sure to read the disclaimers and use them at your own risk. If you notice anything amiss, feel free to leave a courteous message.\nWe’d love to hear your ideas for new clinical psychology apps, so don’t hesitate to reach out!\n\n\n\n\n\n\n\n\n\n\n\n\nDivergence\n\n\n\nDissociation\n\n\nSingle-Case\n\n\nPsychometrics\n\n\n\nA Shiny App designed for the assessment of single cases, providing clinicians and researchers with functionalities to determine if there are deficits, discrepancies, or…\n\n\n\n\n\n\n\n\n\n\n\n\n\nScore Converter\n\n\n\nData Visualisation\n\n\nSingle-Case\n\n\nTest Scores\n\n\n\nScore Converter is a shiny app that allows users to convert single test scores (using a web interface) or large batteries of test results (using spreadsheet upload). A suite…\n\n\n\n\n\n\n\n\n\n\n\n\n\nReliable Change\n\n\n\nReliable Change\n\n\nSingle-Case\n\n\nStability\n\n\n\nCalculate reliable change indices (RCIs) for neuropsychological tests to assess significant changes in cognitive performance over time. A range of methodological approaches…\n\n\n\n\n\n\n\n\n\n\n\n\n\nTherapy Outcomes\n\n\n\nTherapy Outcomes\n\n\nEffectiveness\n\n\nPsychometrics\n\n\n\nTherapy Outcomes is a shiny app that calculates the effectiveness of a therapy service based on basic descriptive statistics, before providing a benchmark performance…\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/posts/stats-series/2024-01-27_standard_errors/index.html",
+    "href": "pages/posts/stats-series/2024-01-27_standard_errors/index.html",
+    "title": "How Many Standard Errors?",
+    "section": "",
+    "text": "I am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)\n\\(E = mc^{2}\\)"
+  },
+  {
+    "objectID": "pages/posts/stats-series/2024-01-27_standard_errors/index.html#footnotes",
+    "href": "pages/posts/stats-series/2024-01-27_standard_errors/index.html#footnotes",
+    "title": "How Many Standard Errors?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NeuroPsyTools",
+    "section": "",
+    "text": "Welcome to NeuroPsyTools!\nI created this space to bring together the web apps I’ve developed for my clinical neuropsychology practice. While doing that, I thought it would also be cool to compile a directory of external resources showcasing the fantastic contributions others have made over the years.\nIf you have any suggestions for new web apps or know of any great resources to add to the directory, feel free to get in touch. I’m always up for exciting new projects and collaborations!\nI’ve got some ideas for future additions (like blogs, cheat sheets, and more), but I won’t get ahead of myself. Writing and programming take time, so updates may not happen frequently — but stay tuned!\nAnd if you like what you see - please share! ♥️\nLast updated: 16 September 2024"
+  },
+  {
+    "objectID": "pages/posts/stats-series/2024-01-27_stats_101/index.html",
+    "href": "pages/posts/stats-series/2024-01-27_stats_101/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "I am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)"
+  },
+  {
+    "objectID": "pages/posts/stats-series/2024-01-27_stats_101/index.html#footnotes",
+    "href": "pages/posts/stats-series/2024-01-27_stats_101/index.html#footnotes",
+    "title": "blog post title",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
+  },
+  {
+    "objectID": "pages/stats-series.html",
+    "href": "pages/stats-series.html",
+    "title": "Series: Statistics in Neuropsychology",
+    "section": "",
+    "text": "How Many Standard Errors?\n\n\n\n\n\nAn introduction to the family of standard errors in neuropsychology\n\n\n\n\n\nJan 27, 2024\n\n\n1 min\n\n\n\n\n\n\n\nblog post title\n\n\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\n\n\nOct 24, 2022\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/apps/4_therapy_outcomes/index.html",
+    "href": "pages/apps/4_therapy_outcomes/index.html",
+    "title": "Therapy Outcomes",
     "section": "",
     "text": "The application is embedded as an iframe below however it is recommend to use this at the host site by clicking here.\nIf you like the app, consider sharing it with others?"
+  },
+  {
+    "objectID": "pages/apps/3_divergence/index.html",
+    "href": "pages/apps/3_divergence/index.html",
+    "title": "Divergence",
+    "section": "",
+    "text": "The application is embedded as an iframe below however it is recommend to use this at the host site by clicking here.\nIf you like the app, consider sharing it with others?"
+  },
+  {
+    "objectID": "pages/apps/1_reliable_change/index.html",
+    "href": "pages/apps/1_reliable_change/index.html",
+    "title": "Reliable Change",
+    "section": "",
+    "text": "A demonstration plot retrieved from the Reliable Change shiny app.\n\n\nJust testing: r 2+2\nThe application is embedded as an iframe below however it is recommend to use this at the host site by clicking here.\nIf you like the app, consider sharing it with others?"
   },
   {
     "objectID": "pages/resources.html",
     "href": "pages/resources.html",
     "title": "Resources",
     "section": "",
-    "text": "General\n\n\nBlogs\n\n\nTools and Applications for Clinical Neuropsychology.\n\n\n\n\n\n\n\nTool / Application\nDescription\nContributor\n\n\n\n\nEasy Report\nEasy Report transforms reporting into a seamless, efficient process, allowing you to focus on delivering valuable insights.\nAlexandra Davis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBooks\n\n\nCommunity\n\n\nInclusivity\n\n\nInnovation\n\n\nInnovations for Clinical Neuropsychology.\n\n\n\n\n\n\n\nArticle / Resources\nDescription\nContributor/s\n\n\n\n\nTech Tips for Clinical Neuropsychology\nList of blogs and guides on using Technology in Clinical Neuropsychology\nDisruptive Technology Initiative of the American Academy of Clinical Neuropsychology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOutcome Measures\n\n\nInnovations for Clinical Neuropsychology.\n\n\n\n\n\n\n\nOutcome Measures\nDescription\nContributor/s\n\n\n\n\nThe Lloyd & Preece Psychometric Auto-Scorer\nExcel sheet designed by Dr Erin Lloyd and Dr David Preece, which auto-scores for a range of common psychological questionnaires.\nErin Lloyd, David Preece\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPodcasts\n\n\nTools and Applications for Clinical Neuropsychology.\n\n\n\n\n\n\n\nPodcasts\nDescription\nContributor\n\n\n\n\nNavNeuro\nThe podcast where they present cutting-edge scientific findings, discuss important topic areas, and interview brain-behavior experts.\nJohn Bellone, Ryan Van Patten\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTools\n\n\nTools and Applications for Clinical Neuropsychology.\n\n\n\n\n\n\n\nTool / App\nDescription\nContributor\n\n\n\n\nEasy Report\nSay goodbye to data cleaning and manual Excel tasks. Easy Report transforms reporting into a seamless, efficient process, allowing you to focus on delivering valuable insights.\nAlexandra Davis\n\n\nReliable Change Calculators\nA series of Excel sheets for easily calculating reliable change scores using manual entry of pre-populated for the RBANS\nKevin Duff\n\n\nCalculators for Neuropsychology Practice\nA huge range of downloadable (Windows) calculators for neuropsychology practice (e.g., regression, percentiles, single case-analysis, reliable change, supplementary test output etc.)\nJohn Crawford and a series of co-authors.\n\n\n\n\n\n\nTutorials\n\n\nWebinars\n\n\nTests\n\n\nTests for Clinical Neuropsychology.\n\n\n\n\n\n\n\nTests\nDescription\nContributor\n\n\n\n\nNeuropsychological Test Database\nThis database includes information on 100+ neuropsychological tests/cognitive assessments, and self-report measures.\nGeorgia Dunning, Alistair Teager, Benjamin Dawson"
+    "text": "Resource\nDescription\nContributor\n\n\n\n\nGlossary Of Neuropsychology Terms\nNeuroscience blog, including 2-minute neuroscience.\nNicolò Zarotti"
   },
   {
     "objectID": "pages/resources.html#footnotes",

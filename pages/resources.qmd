@@ -5,13 +5,19 @@ tbl-colwidths: [20, 80, 20]
 
 # General
 
+| Resource                                                                                                                     | Description                                         | Contributor                                   |
+|------------------|------------------------------------|------------------|
+| [Glossary Of Neuropsychology Terms](https://neuropsytools.com/other_files/Zarotti Brief Neuropsychological Glossary_2.0.pdf) | Neuroscience blog, including 2-minute neuroscience. | [Nicolò Zarotti](https://x.com/nicolozarotti) |
+|                                                                                                                              |                                                     |                                               |
+|                                                                                                                              |                                                     |                                               |
+
 # Blogs
 
-| Tool / Application                                             | Description                                                                                                                     | Contributor                        |
+| Tool / Application                                                          | Description                                         | Contributor                                                                    |
 |------------------|------------------------------------|------------------|
-| [Easy Report](https://npscoresheet-b0f9fbefac84.herokuapp.com) | **Easy Report** transforms reporting into a seamless, efficient process, allowing you to focus on delivering valuable insights. | [Alexandra Davis](#alexneuropsych) |
-|                                                                |                                                                                                                                 |                                    |
-|                                                                |                                                                                                                                 |                                    |
+| [Neuroscientifically Challenged](https://neuroscientificallychallenged.com) | Neuroscience blog, including 2-minute neuroscience. | [Mark Dingman](https://x.com/neurochallenged) (Neuroscientifically Challenged) |
+|                                                                             |                                                     |                                                                                |
+|                                                                             |                                                     |                                                                                |
 
 : Tools and Applications for Clinical Neuropsychology. {.secondary .striped .hover .responsive-lg}
 
@@ -47,11 +53,11 @@ tbl-colwidths: [20, 80, 20]
 
 # Podcasts
 
-| Podcasts                             | Description                                                                                                                           | Contributor                                                 |
-|------------------|-------------------------------------|------------------|
-| [NavNeuro](https://www.navneuro.com) | The podcast where they present cutting-edge scientific findings, discuss important topic areas, and interview brain-behavior experts. | [John Bellone](https://x.com/johnabellone), Ryan Van Patten |
-|                                      |                                                                                                                                       |                                                             |
-|                                      |                                                                                                                                       |                                                             |
+| Podcasts                                                                | Description                                                                                                                           | Contributor                                                                                     |
+|------------------|-----------------------------------------|------------------|
+| [Navigating Neuropsychology (NavNeuro)](https://www.navneuro.com)       | The podcast where they present cutting-edge scientific findings, discuss important topic areas, and interview brain-behavior experts. | [John Bellone](https://x.com/johnabellone), Ryan Van Patten                                     |
+| [The Neuro Clinic](https://theneuroclinic.buzzsprout.com/1652392/about) | The "Voices of the Clinical Neuropsychology Community" podcast.                                                                       | [Ingram Wright](https://x.com/clinicalneuro), [Cliodhna Carroll](https://x.com/CarrollCliodhna) |
+|                                                                         |                                                                                                                                       |                                                                                                 |
 
 : Tools and Applications for Clinical Neuropsychology. {.secondary .striped .hover .responsive-lg}
 

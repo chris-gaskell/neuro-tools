@@ -4,7 +4,7 @@ project:
 # options here: https://quarto.org/docs/reference/projects/websites.html
 website:
   title: "NeuroPsyTools"
-  image: https://github.com/chris-gaskell/neuro-tools/blob/master/img/twitter-img/homepage_2024-09-13.png?raw=true
+  image: front-image.png
   announcement:
     icon: info-circle
     dismissable: true
@@ -39,6 +39,8 @@ website:
         text: Apps
       - href: pages/resources.qmd
         text: Resources
+      # - href: pages/reactable.qmd
+      #   text: Reactable
   page-footer:
     left: "Copyright 2024, NeuroTools"
     right:
