@@ -109,7 +109,7 @@
     "href": "pages/resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Resource\nDescription\nContributor\n\n\n\n\nGlossary Of Neuropsychology Terms\nNeuroscience blog, including 2-minute neuroscience.\nNicolò Zarotti"
+    "text": "General Resoures for Clinical Neuropsychology.\n\n\n\n\n\n\n\nResource\nDescription\nContributor\n\n\n\n\nBrief Neuropsychology Glossary\nGlossary Of Neuropsychology Terms.\nNicolò Zarotti\n\n\nInternational Neuropsychological Society (INS)\nThe International Neuropsychological Society is a multidisciplinary organization dedicated to the scientific study of brain-behavior relationships.\n#INSneuro\n\n\nKnow Neuropsychology\nKnowNeuropsychology contains a library of open access educational lectures spanning a diversity of practice, science, and professional development topics.\n#KnowNeuropsych"
   },
   {
     "objectID": "pages/resources.html#footnotes",
@@ -117,5 +117,33 @@
     "title": "Resources",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nDisruptive Technology Initiative↩︎\nAmerican Academy of Clinical Neuropsychology↩︎"
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Downloadthis Example",
+    "section": "",
+    "text": "r 2+2"
+  },
+  {
+    "objectID": "test.html#downloading-png-file",
+    "href": "test.html#downloading-png-file",
+    "title": "Downloadthis Example",
+    "section": "Downloading png file",
+    "text": "Downloading png file\nUsing {{&lt; downloadthis img/favicon-grey.png &gt;}}, you can create the following download buttons that downloads the logo of quarto embedded within this rendered html document,\nAnd it is also possible to specify,\n\nthe downloaded file name with dname argument,\nbutton label with label argument,\nbutton icon name with icon argument.\nbutton type with type argument."
+  },
+  {
+    "objectID": "test.html#downloading-csv-file",
+    "href": "test.html#downloading-csv-file",
+    "title": "Downloadthis Example",
+    "section": "Downloading csv file",
+    "text": "Downloading csv file\n{{&lt; downloadthis files/mtcars.csv dname=Mtcars label=\"Download the mtcars data\" icon=database-fill-down type=info class=data-button id=mtcars &gt;}}\nWriting the shortcode as above creates the following button,"
+  },
+  {
+    "objectID": "test.html#downloading-pdf-file",
+    "href": "test.html#downloading-pdf-file",
+    "title": "Downloadthis Example",
+    "section": "Downloading pdf file",
+    "text": "Downloading pdf file\n{{&lt; downloadthis files/pdf_example.pdf dname=File label=\"Download the pdf\" icon=file-earmark-pdf type=success &gt;}}\nSimilarly, the above shortcode creates the following button,"
   }
 ]
