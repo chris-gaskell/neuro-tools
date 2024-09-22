@@ -16,7 +16,7 @@ website:
   reader-mode: true
   favicon: img/favicon-color.ico
   twitter-card:
-    image: https://neuropsytools.com
+    image: front-image.png
     card-style: summary
     creator: "@chrisgaskell92"
   site-url: https://neuropsytools.com
@@ -27,7 +27,6 @@ website:
     background: primary
     foreground: secondary
     search: true
-    #back-to-top-navigation: tr
     logo: img/favicon-grey.ico
     left:
       - href: index.qmd
