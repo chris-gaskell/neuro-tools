@@ -16,8 +16,8 @@ website:
   reader-mode: true
   favicon: img/favicon-color.ico
   twitter-card:
-    image: img/homepage_2024-09-13.png
-    card-style: summary_large_image
+    image: https://neuropsytools.com
+    card-style: summary
     creator: "@chrisgaskell92"
   site-url: https://neuropsytools.com
   search:
