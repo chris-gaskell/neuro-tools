@@ -16,7 +16,6 @@ bibliography: references.bib
 # for help with latex equations: https://rpruim.github.io/s341/S19/from-class/MathinRmd.html#:~:text=Math%20inside%20RMarkdown,10n%3D1n2.
 ---
 
-
 ![](img/therapy-outcomes-preview-image.png)
 
 The application is embedded as an iframe below however it is recommend to use this at the host site by clicking [here](https://chris-gaskell.shinyapps.io/effectiveness-meta-shiny/).

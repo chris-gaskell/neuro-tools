@@ -1,0 +1,40 @@
+---
+title: "Supplement"
+description: "Produce supplementary analyses for common neuropsychological test scores."
+author:
+  - name: Chris Gaskell
+    orcid: 0000-0002-7589-5246
+    affiliation:
+      - North Staffordshire Combined NHS Healthcare Tust
+      - The University of Sheffield
+date: 09/22/2024
+categories: [Test Scores, Psychometrics]
+image: img/supplement-preview-image.png
+draft: false
+bibliography: references.bib
+#csl: apa7.csl
+# for help with latex equations: https://rpruim.github.io/s341/S19/from-class/MathinRmd.html#:~:text=Math%20inside%20RMarkdown,10n%3D1n2.
+---
+
+![](img/supplement-preview-image.png)
+
+The application is embedded as an iframe below however it is recommend to use this at the host site by clicking [here](https://chris-gaskell.shinyapps.io/effectiveness-meta-shiny/).
+
+If you like the app, consider sharing it with others?
+
+<hr>
+
+```{=html}
+<iframe width="950" height="500" src="https://chris-gaskell.shinyapps.io/effectiveness-meta-shiny/" title="Therapy Outcomes"></iframe>
+```
+<hr>
+
+<div>
+
+```{=html}
+<div style="text-align: center;">
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chris.gaskell" data-color="#e9ecef" data-emoji="☕"  data-font="Lato" data-text="Support with Coffee" data-outline-color="#009adb" data-font-color="#009adb" data-coffee-color="#FFDD00"></script>
+</div>
+```
+
+</div>

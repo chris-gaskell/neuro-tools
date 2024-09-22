@@ -9,13 +9,10 @@ website:
     icon: info-circle
     dismissable: true
     content: "**Warning** - This is a highly *developmental* version of NeuroPsyTools. Return back for further updates."
-    type: primary
+    type: secondary
     position: below-navbar
   description: "A place for neuropsychology nerds to assemble."
-  google-analytics:
-    tracking-id: "G-3TJ48XKDR9"
-    anonymize-ip: true
-    storage: none
+  google-analytics: "UA-9692446052"
   reader-mode: true
   favicon: img/favicon-color.ico
   twitter-card:
@@ -27,8 +24,8 @@ website:
     location: navbar
     type: overlay
   navbar:
-    background: secondary
-    foreground: primary
+    background: primary
+    foreground: secondary
     search: true
     #back-to-top-navigation: tr
     logo: img/favicon-grey.ico
@@ -52,15 +49,15 @@ website:
       - href: pages/author.qmd
         text: Maintainer
     border: true
-    background: secondary
-    foreground: primary
+    background: primary
+    foreground: secondary
 
 
 # theming options: https://quarto.org/docs/output-formats/html-themes.html#dark-mode
 format:
   html:
     theme:
-      light: cerulean
+      light: [cerulean, styles/styles.scss]
       dark: darkly
     toc: true
     toc-depth: 2

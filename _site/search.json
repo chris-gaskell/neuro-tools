@@ -7,11 +7,88 @@
     "text": "For a specific look at the statistics series then click here.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nHow Many Standard Errors?\n\n\n1 min\n\n\n\nStats\n\n\nPsychometrics\n\n\nError\n\n\n\nAn introduction to the family of standard errors in neuropsychology\n\n\n\nJan 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n1 min\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pages/apps/2_score_converter/index.html",
-    "href": "pages/apps/2_score_converter/index.html",
+    "objectID": "pages/apps/2_score_converter/index.html#the-basic-idea",
+    "href": "pages/apps/2_score_converter/index.html#the-basic-idea",
     "title": "Score Converter",
+    "section": "The Basic Idea",
+    "text": "The Basic Idea\nPsychologists (especially those of us in neuropsychology) spend much time deriving and interpreting cognitive test scores. As test publishers vary in the form of derived score offered (e.g., \\(Z\\)-, \\(T\\)-, Scaled- Scores etc.) clinicians are routinely required to work with multiple metrics. It has been suggested that converting test scores to a unified metric may aid interpretation (Crawford, 2013), tabulation, and visualisation of test scores. Conversion between any pair of standardised metrics can be done using the following equation Equation 1.\n\\[\nX_{new} =\n\\frac{s_{new}}{s_{old}}\n(X_{old} - \\bar{X}_{old})\n+ \\bar{X}_{new}\n\\tag{1}\\]\nWhere \\(X_{new}\\) is the newly converted (or derived) score, \\(s_{new}\\) and \\(s_{old}\\) refer to the SD value for both new and old metrics, \\(\\bar{X}_{new}\\) and \\(\\bar{X}_{old}\\) are the mean value for the new and old metrics, and finally \\(X_{old}\\) is the original standard score.\nUnfortunately, manual conversion of scores is error-prone, imprecise, and time-intensive. Electronic tools are required for streamlining these processes and providing ease of access to visualisation functionality. Score Converter is a html app that allows users to convert single test scores (using a web interface) or large batteries of test results (using spreadsheet upload). A variety of derived score types and descriptor systems are included, providing the user with the ability to develop customised test score summary tables. A suite of visualisation tools is provided for plotting test score data, including forest plots, bar plots, bell-curves, and radar plots. All output produced can be exported to csv, pdf, or png files.\nScore Converter provides an eﬀicient and comprehensive range of features for converting, tabulating, and visualising test scores. Future empirical research needs to explore how visualisation and tabulation tools can aid, influence, or hinder the process of interpreting neuropsychological test data.\nThe application is embedded as an iframe (see below) however it is recommend that users access the app via the host website here.\nIf you like the app, consider sharing it with others?"
+  },
+  {
+    "objectID": "pages/apps/2_score_converter/index.html#app",
+    "href": "pages/apps/2_score_converter/index.html#app",
+    "title": "Score Converter",
+    "section": "App",
+    "text": "App"
+  },
+  {
+    "objectID": "pages/apps/2_score_converter/index.html#poster",
+    "href": "pages/apps/2_score_converter/index.html#poster",
+    "title": "Score Converter",
+    "section": "Poster",
+    "text": "Poster\nI also presented this as a virtual poster at the 21st NR-SIG-WFNR1 (see screenshot below).\n\n\n\n\n\n\n Download Poster"
+  },
+  {
+    "objectID": "pages/apps/2_score_converter/index.html#footnotes",
+    "href": "pages/apps/2_score_converter/index.html#footnotes",
+    "title": "Score Converter",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nNeuropsychological Rehabilitation Specialist Interest Group for the World Federation for NeuroRehabilitation↩︎"
+  },
+  {
+    "objectID": "pages/apps/4_therapy_outcomes/index.html",
+    "href": "pages/apps/4_therapy_outcomes/index.html",
+    "title": "Therapy Outcomes",
     "section": "",
     "text": "The application is embedded as an iframe below however it is recommend to use this at the host site by clicking here.\nIf you like the app, consider sharing it with others?"
+  },
+  {
+    "objectID": "pages/stats-series.html",
+    "href": "pages/stats-series.html",
+    "title": "Series: Statistics in Neuropsychology",
+    "section": "",
+    "text": "How Many Standard Errors?\n\n\n\n\n\nAn introduction to the family of standard errors in neuropsychology\n\n\n\n\n\nJan 27, 2024\n\n\n1 min\n\n\n\n\n\n\n\nblog post title\n\n\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\n\n\nOct 24, 2022\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/posts/stats-series/2024-01-27_stats_101/index.html",
+    "href": "pages/posts/stats-series/2024-01-27_stats_101/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "I am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)"
+  },
+  {
+    "objectID": "pages/posts/stats-series/2024-01-27_stats_101/index.html#footnotes",
+    "href": "pages/posts/stats-series/2024-01-27_stats_101/index.html#footnotes",
+    "title": "blog post title",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NeuroPsyTools",
+    "section": "",
+    "text": "Welcome to NeuroPsyTools!\nI created this space to bring together the web apps I’ve developed for my clinical neuropsychology practice. While doing that, I thought it would also be cool to compile a directory of external resources showcasing the fantastic contributions others have made over the years.\nIf you have any suggestions for new web apps or know of any great resources to add to the directory, feel free to get in touch. I’m always up for exciting new projects and collaborations!\nI’ve got some ideas for future additions (like blogs, cheat sheets, and more), but I won’t get ahead of myself. Writing and programming take time, so updates may not happen frequently — but stay tuned!\nAnd if you like what you see - please share! ♥️\nLast updated: 22 September 2024"
+  },
+  {
+    "objectID": "pages/posts/stats-series/2024-01-27_standard_errors/index.html",
+    "href": "pages/posts/stats-series/2024-01-27_standard_errors/index.html",
+    "title": "How Many Standard Errors?",
+    "section": "",
+    "text": "I am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)\n\\(E = mc^{2}\\)"
+  },
+  {
+    "objectID": "pages/posts/stats-series/2024-01-27_standard_errors/index.html#footnotes",
+    "href": "pages/posts/stats-series/2024-01-27_standard_errors/index.html#footnotes",
+    "title": "How Many Standard Errors?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
+  },
+  {
+    "objectID": "pages/apps.html",
+    "href": "pages/apps.html",
+    "title": "NeuroPsyTools Apps",
+    "section": "",
+    "text": "These apps are all developed using Shiny, a web application framework for R that allows for the creation of interactive, user-friendly web applications.\nShiny apps enable users to input data, adjust parameters, and view results in real time, making them particularly useful for data analysis, visualisation, and reporting (and therefore clinical neuropsychology! 🚀.\nThese apps were created with very limited developer time, so please be sure to read the disclaimers and use them at your own risk. If you notice anything amiss, feel free to leave a courteous message.\nWe’d love to hear your ideas for new clinical psychology apps, so don’t hesitate to reach out!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplement\n\n\n\nTest Scores\n\n\nPsychometrics\n\n\n\nProduce supplementary analyses for common neuropsychological test scores.\n\n\n\n\n\n\n\n\n\n\n\nDivergence\n\n\n\nDissociation\n\n\nSingle-Case\n\n\nPsychometrics\n\n\n\nA Shiny App designed for the assessment of single cases, providing clinicians and researchers with functionalities to determine if there are deficits, discrepancies, or…\n\n\n\n\n\n\n\n\n\n\n\n\n\nScore Converter\n\n\n\nData Visualisation\n\n\nSingle-Case\n\n\nTest Scores\n\n\n\nScore Converter is a shiny app that allows users to convert single test scores (using a web interface) or large batteries of test results (using spreadsheet upload). A suite…\n\n\n\n\n\n\n\n\n\n\n\n\n\nReliable Change\n\n\n\nReliable Change\n\n\nSingle-Case\n\n\nStability\n\n\n\nCalculate reliable change indices (RCIs) for neuropsychological tests to assess significant changes in cognitive performance over time. A range of methodological approaches…\n\n\n\n\n\n\n\n\n\n\n\n\n\nTherapy Outcomes\n\n\n\nTherapy Outcomes\n\n\nEffectiveness\n\n\nPsychometrics\n\n\n\nTherapy Outcomes is a shiny app that calculates the effectiveness of a therapy service based on basic descriptive statistics, before providing a benchmark performance…\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pages/author.html",
@@ -35,58 +112,9 @@
     "text": "Experience\nNHS | Senior Clinical Psychologist | August 2022 - present\nIndigoNeuro | Associate Psychologist | August 2020 - present\nNorth West Neurotherapeutics | Associate Psychologist | August 2023 - present"
   },
   {
-    "objectID": "pages/apps.html",
-    "href": "pages/apps.html",
-    "title": "NeuroPsyTools Apps",
-    "section": "",
-    "text": "These apps are all developed using Shiny, a web application framework for R that allows for the creation of interactive, user-friendly web applications.\nShiny apps enable users to input data, adjust parameters, and view results in real time, making them particularly useful for data analysis, visualisation, and reporting (and therefore clinical neuropsychology! 🚀.\nThese apps were created with very limited developer time, so please be sure to read the disclaimers and use them at your own risk. If you notice anything amiss, feel free to leave a courteous message.\nWe’d love to hear your ideas for new clinical psychology apps, so don’t hesitate to reach out!\n\n\n\n\n\n\n\n\n\n\n\n\nDivergence\n\n\n\nDissociation\n\n\nSingle-Case\n\n\nPsychometrics\n\n\n\nA Shiny App designed for the assessment of single cases, providing clinicians and researchers with functionalities to determine if there are deficits, discrepancies, or…\n\n\n\n\n\n\n\n\n\n\n\n\n\nScore Converter\n\n\n\nData Visualisation\n\n\nSingle-Case\n\n\nTest Scores\n\n\n\nScore Converter is a shiny app that allows users to convert single test scores (using a web interface) or large batteries of test results (using spreadsheet upload). A suite…\n\n\n\n\n\n\n\n\n\n\n\n\n\nReliable Change\n\n\n\nReliable Change\n\n\nSingle-Case\n\n\nStability\n\n\n\nCalculate reliable change indices (RCIs) for neuropsychological tests to assess significant changes in cognitive performance over time. A range of methodological approaches…\n\n\n\n\n\n\n\n\n\n\n\n\n\nTherapy Outcomes\n\n\n\nTherapy Outcomes\n\n\nEffectiveness\n\n\nPsychometrics\n\n\n\nTherapy Outcomes is a shiny app that calculates the effectiveness of a therapy service based on basic descriptive statistics, before providing a benchmark performance…\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pages/posts/stats-series/2024-01-27_standard_errors/index.html",
-    "href": "pages/posts/stats-series/2024-01-27_standard_errors/index.html",
-    "title": "How Many Standard Errors?",
-    "section": "",
-    "text": "I am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)\n\\(E = mc^{2}\\)"
-  },
-  {
-    "objectID": "pages/posts/stats-series/2024-01-27_standard_errors/index.html#footnotes",
-    "href": "pages/posts/stats-series/2024-01-27_standard_errors/index.html#footnotes",
-    "title": "How Many Standard Errors?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "NeuroPsyTools",
-    "section": "",
-    "text": "Welcome to NeuroPsyTools!\nI created this space to bring together the web apps I’ve developed for my clinical neuropsychology practice. While doing that, I thought it would also be cool to compile a directory of external resources showcasing the fantastic contributions others have made over the years.\nIf you have any suggestions for new web apps or know of any great resources to add to the directory, feel free to get in touch. I’m always up for exciting new projects and collaborations!\nI’ve got some ideas for future additions (like blogs, cheat sheets, and more), but I won’t get ahead of myself. Writing and programming take time, so updates may not happen frequently — but stay tuned!\nAnd if you like what you see - please share! ♥️\nLast updated: 16 September 2024"
-  },
-  {
-    "objectID": "pages/posts/stats-series/2024-01-27_stats_101/index.html",
-    "href": "pages/posts/stats-series/2024-01-27_stats_101/index.html",
-    "title": "blog post title",
-    "section": "",
-    "text": "I am going to insert an inline footnote here1.\n(Aboukasm et al., 1998)"
-  },
-  {
-    "objectID": "pages/posts/stats-series/2024-01-27_stats_101/index.html#footnotes",
-    "href": "pages/posts/stats-series/2024-01-27_stats_101/index.html#footnotes",
-    "title": "blog post title",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nHere is my inline footnote↩︎"
-  },
-  {
-    "objectID": "pages/stats-series.html",
-    "href": "pages/stats-series.html",
-    "title": "Series: Statistics in Neuropsychology",
-    "section": "",
-    "text": "How Many Standard Errors?\n\n\n\n\n\nAn introduction to the family of standard errors in neuropsychology\n\n\n\n\n\nJan 27, 2024\n\n\n1 min\n\n\n\n\n\n\n\nblog post title\n\n\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\n\n\nOct 24, 2022\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pages/apps/4_therapy_outcomes/index.html",
-    "href": "pages/apps/4_therapy_outcomes/index.html",
-    "title": "Therapy Outcomes",
+    "objectID": "pages/apps/5_supplement/index.html",
+    "href": "pages/apps/5_supplement/index.html",
+    "title": "Supplement",
     "section": "",
     "text": "The application is embedded as an iframe below however it is recommend to use this at the host site by clicking here.\nIf you like the app, consider sharing it with others?"
   },
@@ -109,7 +137,7 @@
     "href": "pages/resources.html",
     "title": "Resources",
     "section": "",
-    "text": "General Resoures for Clinical Neuropsychology.\n\n\n\n\n\n\n\nResource\nDescription\nContributor\n\n\n\n\nBrief Neuropsychology Glossary\nGlossary Of Neuropsychology Terms.\nNicolò Zarotti\n\n\nInternational Neuropsychological Society (INS)\nThe International Neuropsychological Society is a multidisciplinary organization dedicated to the scientific study of brain-behavior relationships.\n#INSneuro\n\n\nKnow Neuropsychology\nKnowNeuropsychology contains a library of open access educational lectures spanning a diversity of practice, science, and professional development topics.\n#KnowNeuropsych"
+    "text": "Download Glossary\n\n\nGeneral Resoures for Clinical Neuropsychology.\n\n\n\n\n\n\n\nResource\nDescription\nContributor\n\n\n\n\nBrief Neuropsychology Glossary\nGlossary Of Neuropsychology Terms.\nNicolò Zarotti\n\n\nInternational Neuropsychological Society (INS)\nThe International Neuropsychological Society is a multidisciplinary organization dedicated to the scientific study of brain-behavior relationships.\n#INSneuro\n\n\nKnow Neuropsychology\nKnowNeuropsychology contains a library of open access educational lectures spanning a diversity of practice, science, and professional development topics.\n#KnowNeuropsych"
   },
   {
     "objectID": "pages/resources.html#footnotes",
@@ -117,33 +145,5 @@
     "title": "Resources",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nDisruptive Technology Initiative↩︎\nAmerican Academy of Clinical Neuropsychology↩︎"
-  },
-  {
-    "objectID": "test.html",
-    "href": "test.html",
-    "title": "Downloadthis Example",
-    "section": "",
-    "text": "r 2+2"
-  },
-  {
-    "objectID": "test.html#downloading-png-file",
-    "href": "test.html#downloading-png-file",
-    "title": "Downloadthis Example",
-    "section": "Downloading png file",
-    "text": "Downloading png file\nUsing {{&lt; downloadthis img/favicon-grey.png &gt;}}, you can create the following download buttons that downloads the logo of quarto embedded within this rendered html document,\nAnd it is also possible to specify,\n\nthe downloaded file name with dname argument,\nbutton label with label argument,\nbutton icon name with icon argument.\nbutton type with type argument."
-  },
-  {
-    "objectID": "test.html#downloading-csv-file",
-    "href": "test.html#downloading-csv-file",
-    "title": "Downloadthis Example",
-    "section": "Downloading csv file",
-    "text": "Downloading csv file\n{{&lt; downloadthis files/mtcars.csv dname=Mtcars label=\"Download the mtcars data\" icon=database-fill-down type=info class=data-button id=mtcars &gt;}}\nWriting the shortcode as above creates the following button,"
-  },
-  {
-    "objectID": "test.html#downloading-pdf-file",
-    "href": "test.html#downloading-pdf-file",
-    "title": "Downloadthis Example",
-    "section": "Downloading pdf file",
-    "text": "Downloading pdf file\n{{&lt; downloadthis files/pdf_example.pdf dname=File label=\"Download the pdf\" icon=file-earmark-pdf type=success &gt;}}\nSimilarly, the above shortcode creates the following button,"
   }
 ]
