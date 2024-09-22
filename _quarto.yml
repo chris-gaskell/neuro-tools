@@ -12,7 +12,7 @@ website:
     type: secondary
     position: below-navbar
   description: "A place for neuropsychology nerds to assemble."
-  google-analytics: "UA-9692446052"
+  google-analytics: "G-3TJ48XKDR9"
   reader-mode: true
   favicon: img/favicon-color.ico
   twitter-card:
